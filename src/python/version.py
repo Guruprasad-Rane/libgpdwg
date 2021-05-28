@@ -200,6 +200,7 @@ def decode2000(gpdwg,dat):
 				ObjectMapCount += 1
 				LastHeader=CurHeader
 				LastObjectPos=CurObjectPos
+				gpdwg.objectcount += 1
 			else:
 				if not str(gpdwg.objects['temp'].__class__.__name__) == "dict":
 					logger.error("\t\t\t\t\t\t\t\t Could not read object "+str(gpdwg.objects['temp'].__class__.__name__))

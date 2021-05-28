@@ -48,9 +48,15 @@ class gpdwgData(object):
 		for i in range(len(self.classes)):
 			TempOutput=TempOutput+"\nClass No "+str(i+500)+":\n"+repr(self.classes[i])
 		TempOutput=TempOutput+"\n\nObjects\n"+str(self.objectcount) + " objects found.\n\n"
-		for i in range(self.objectcount):
+		for i in self.objects.keys():
 			TempOutput=TempOutput+"\n\t"+str(i)+": " + str(type(self.objects[i]).__name__) + "\n"
 			TempOutput=TempOutput+repr(self.objects[i])
+		'''
+		
+		for object in self.objects.items():
+			TempOutput=TempOutput+"\n\t: " + str(type(object)) + "\n"
+			TempOutput=TempOutput+repr(object)
+		'''
 
 		return TempOutput
 

@@ -12,7 +12,7 @@
 #                                                                           #
 #############################################################################
 import sys
-sys.path.append("/media/Data/guruprasad/librecad_dev/gpdwg_dev/gpdwg/src/python")
+sys.path.append("src/python")
 import libgpdwg
 
 libgpdwg.logger.setLevel(20)
@@ -24,4 +24,4 @@ arguments = sys.argv[1:]
 if len(arguments) == 1:
 	dwgData=libgpdwg.read(sys.argv[1])
 
-#print(dwgData)
+print(dwgData)

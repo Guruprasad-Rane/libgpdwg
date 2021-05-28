@@ -12,11 +12,11 @@
 #                                                                           #
 #############################################################################
 import sys, PIL
-sys.path.append("/home/guruprasad/librecad_dev/gpdwg_dev/gpdwg/src")
+sys.path.append("src/python")
 import libgpdwg
 
-#libgpdwg.logger.setLevel(0)
-#libgpdwg.handler.setLevel(0)
+libgpdwg.logger.setLevel(0)
+libgpdwg.handler.setLevel(0)
 program_name = sys.argv[0]
 arguments = sys.argv[1:]
 

@@ -110,10 +110,10 @@ class hatch_path(object):
 				raise TypeError('%s attribute must be set to an instance of %s but found to be %s' % (name, A_Types[name],type(value)))
 		object.__setattr__(self, name, value)
 	def __repr__(self):
-		TempOutput='\nHatch path\n'
+		TempOutput='\n\t\t\tHatch path\n'
 		for i in dir(self):
 			if not i.startswith('__') and hasattr(self,i):
-				TempOutput=TempOutput+'\t'+str(i)+' : '+repr(getattr(self,i))+'\n'
+				TempOutput=TempOutput+'\t\t\t\t'+str(i)+' : '+repr(getattr(self,i))+'\n\t\t\t'
 		return TempOutput	
 
 class hatch_path_line(object):
@@ -126,10 +126,10 @@ class hatch_path_line(object):
 				raise TypeError('%s attribute must be set to an instance of %s but found to be %s' % (name, A_Types[name],type(value)))
 		object.__setattr__(self, name, value)
 	def __repr__(self):
-		TempOutput='\nHatch path Line\n'
+		TempOutput='\n\t\t\tHatch path Line\n'
 		for i in dir(self):
 			if not i.startswith('__') and hasattr(self,i):
-				TempOutput=TempOutput+'\t'+str(i)+' : '+repr(getattr(self,i))+'\n'
+				TempOutput=TempOutput+'\t\t\t\t'+str(i)+' : '+repr(getattr(self,i))+'\n\t\t\t'
 		return TempOutput
 
 class hatch_path_arc(object):
@@ -142,10 +142,10 @@ class hatch_path_arc(object):
 				raise TypeError('%s attribute must be set to an instance of %s but found to be %s' % (name, A_Types[name],type(value)))
 		object.__setattr__(self, name, value)
 	def __repr__(self):
-		TempOutput='\nHatch path Line\n'
+		TempOutput='\n\t\t\tHatch path Line\n'
 		for i in dir(self):
 			if not i.startswith('__') and hasattr(self,i):
-				TempOutput=TempOutput+'\t'+str(i)+' : '+repr(getattr(self,i))+'\n'
+				TempOutput=TempOutput+'\t\t\t\t'+str(i)+' : '+repr(getattr(self,i))+'\n\t\t\t'
 		return TempOutput
 
 class hatch_path_elarc(object):
@@ -158,10 +158,10 @@ class hatch_path_elarc(object):
 				raise TypeError('%s attribute must be set to an instance of %s but found to be %s' % (name, A_Types[name],type(value)))
 		object.__setattr__(self, name, value)
 	def __repr__(self):
-		TempOutput='\nHatch path Line\n'
+		TempOutput='\n\t\t\tHatch path Line\n'
 		for i in dir(self):
 			if not i.startswith('__') and hasattr(self,i):
-				TempOutput=TempOutput+'\t'+str(i)+' : '+repr(getattr(self,i))+'\n'
+				TempOutput=TempOutput+'\t\t\t\t'+str(i)+' : '+repr(getattr(self,i))+'\n\t\t\t'
 		return TempOutput
 
 class hatch_path_spline(object):
@@ -174,10 +174,10 @@ class hatch_path_spline(object):
 				raise TypeError('%s attribute must be set to an instance of %s but found to be %s' % (name, A_Types[name],type(value)))
 		object.__setattr__(self, name, value)
 	def __repr__(self):
-		TempOutput='\nHatch path spline\n'
+		TempOutput='\n\t\t\tHatch path spline\n'
 		for i in dir(self):
 			if not i.startswith('__') and hasattr(self,i):
-				TempOutput=TempOutput+'\t'+str(i)+' : '+repr(getattr(self,i))+'\n'
+				TempOutput=TempOutput+'\t\t\t\t'+str(i)+' : '+repr(getattr(self,i))+'\n\t\t\t'
 		return TempOutput
 
 class hatch_defination_lines(object):
@@ -190,10 +190,10 @@ class hatch_defination_lines(object):
 				raise TypeError('%s attribute must be set to an instance of %s but found to be %s' % (name, A_Types[name],type(value)))
 		object.__setattr__(self, name, value)
 	def __repr__(self):
-		TempOutput='\nHatch defination Line\n'
+		TempOutput='\n\t\t\tHatch defination Line\n'
 		for i in dir(self):
 			if not i.startswith('__') and hasattr(self,i):
-				TempOutput=TempOutput+'\t'+str(i)+' : '+repr(getattr(self,i))+'\n'
+				TempOutput=TempOutput+'\t\t\t\t'+str(i)+' : '+repr(getattr(self,i))+'\n\t\t\t'
 		return TempOutput
 
 class dwg_hatch(dwg_entity):
@@ -1863,9 +1863,15 @@ class gpdwgData(object):
 		for i in range(len(self.classes)):
 			TempOutput=TempOutput+"\nClass No "+str(i+500)+":\n"+repr(self.classes[i])
 		TempOutput=TempOutput+"\n\nObjects\n"+str(self.objectcount) + " objects found.\n\n"
-		for i in range(self.objectcount):
+		for i in self.objects.keys():
 			TempOutput=TempOutput+"\n\t"+str(i)+": " + str(type(self.objects[i]).__name__) + "\n"
 			TempOutput=TempOutput+repr(self.objects[i])
+		'''
+		
+		for object in self.objects.items():
+			TempOutput=TempOutput+"\n\t: " + str(type(object)) + "\n"
+			TempOutput=TempOutput+repr(object)
+		'''
 
 		return TempOutput
 
