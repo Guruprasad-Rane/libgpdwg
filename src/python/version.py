@@ -4,7 +4,7 @@
 #  Copyright (C) 2018 Guruprasad Rane <raneguruprasad@gmail.com>            #
 #                                                                           #
 #  This library is free software, licensed under the terms of the GNU       #
-#  General Public License version 2. You should have received a copy of     #
+#  General Public License version 3. You should have received a copy of     #
 #  the GNU General Public License along with this program.                  #
 #                                                                           #
 #############################################################################

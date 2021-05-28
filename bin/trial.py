@@ -15,9 +15,8 @@ import sys
 sys.path.append("src/python")
 import libgpdwg
 
-libgpdwg.logger.setLevel(20)
-libgpdwg.handler.setLevel(20)
-program_name = sys.argv[0]
+libgpdwg.logger.setLevel(20) # 0 - NOTSET, 10 - DEBUG, 20 - Info, 30 - Warning
+libgpdwg.handler.setLevel(20) # 0 - NOTSET, 10 - DEBUG, 20 - Info, 30 - Warning
 arguments = sys.argv[1:]
 
 
