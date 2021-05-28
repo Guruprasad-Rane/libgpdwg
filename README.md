@@ -15,7 +15,7 @@ Part of the code of the library is static while the rest of the code is dynamica
 
 Usage
 -----
-Refer ```bin/trial.py``` for basic usage. This will read a dwg file and dump the data.
+Refer ```bin/trial.py``` for basic usage. This will read a dwg file and dump the data. Example of [dump file](https://github.com/Guruprasad-Rane/libgpdwg/blob/main/test1_dump.txt) created.
 
 
 References
