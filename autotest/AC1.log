@@ -1,0 +1,3524 @@
+DEBUG - 19	0	Codepage	30
+DEBUG - 21	0	Section Count	6
+DEBUG - 25	0	Section 0 Number	0
+DEBUG - 26	0	Section 0 Address	17259
+DEBUG - 30	0	Section 0 Size	534
+DEBUG - 34	0	Section 1 Number	1
+DEBUG - 35	0	Section 1 Address	17793
+DEBUG - 39	0	Section 1 Size	603
+DEBUG - 43	0	Section 2 Number	2
+DEBUG - 44	0	Section 2 Address	29255
+DEBUG - 48	0	Section 2 Size	391
+DEBUG - 52	0	Section 3 Number	3
+DEBUG - 53	0	Section 3 Address	0
+DEBUG - 57	0	Section 3 Size	0
+DEBUG - 61	0	Section 4 Number	4
+DEBUG - 62	0	Section 4 Address	29795
+DEBUG - 66	0	Section 4 Size	4
+DEBUG - 70	0	Section 5 Number	5
+DEBUG - 71	0	Section 5 Address	97
+DEBUG - 75	0	Section 5 Size	123
+INFO - Section No.0		Start:17259		End:17793		Size:534
+INFO - Section No.1		Start:17793		End:18396		Size:603
+INFO - Section No.2		Start:29255		End:29646		Size:391
+INFO - Section No.3		Start:0		End:0		Size:0
+INFO - Section No.4		Start:29795		End:29799		Size:4
+INFO - Section No.5		Start:97		End:220		Size:123
+DEBUG - Reading CRC from 0 for 79 bytes = 13486
+DEBUG - 79	0	CRC2	13486
+INFO - CRC matched.
+DEBUG - 97 Sentinel found at correct location.
+DEBUG - Shifting dat.byte to section 0 address.
+DEBUG - 17275 Sentinel found at correct location.
+DEBUG - Start Reading Varialbles 17275 0
+DEBUG - 17275	0	Section Size	496
+DEBUG - 17279	0	UNKNOWN_01	412148564080.0
+DEBUG - 17287	2	UNKNOWN_02	1.0
+DEBUG - 17287	4	UNKNOWN_03	1.0
+DEBUG - 17287	6	UNKNOWN_04	1.0
+DEBUG - 17288	0	UNKNOWN_05	'm'
+DEBUG - 17291	2	UNKNOWN_06	''
+DEBUG - 17291	4	UNKNOWN_07	''
+DEBUG - 17291	6	UNKNOWN_08	''
+DEBUG - 17292	0	UNKNOWN_09	0.0
+DEBUG - 17292	2	UNKNOWN_10	0.0
+DEBUG - 17292	4	CURRENT_VIEWPORT_HANDLE	Handle(5,0,0)
+DEBUG - 17293	4	DIMASO	1
+DEBUG - 17293	5	DIMSHO	1
+DEBUG - 17293	6	PLINEGEN	0
+DEBUG - 17293	7	ORTHOMODE	0
+DEBUG - 17294	0	REGENMODE	1
+DEBUG - 17294	1	FILLMODE	1
+DEBUG - 17294	2	QTEXTMODE	0
+DEBUG - 17294	3	PSLTSCALE	1
+DEBUG - 17294	4	LIMCHECK	0
+DEBUG - 17294	5	USRTIMER	1
+DEBUG - 17294	6	SKPOLY	0
+DEBUG - 17294	7	ANGDIR	0
+DEBUG - 17295	0	SPLFRAME	0
+DEBUG - 17295	1	MIRRTEXT	0
+DEBUG - 17295	2	WORLDVIEW	1
+DEBUG - 17295	3	TILEMODE	1
+DEBUG - 17295	4	PLIMCHECK	0
+DEBUG - 17295	5	VISRETAIN	1
+DEBUG - 17295	6	DISPSILH	0
+DEBUG - 17295	7	PELLIPSE	0
+DEBUG - 17296	0	PROXYGRAPHICS	1.0
+DEBUG - 17297	2	TREEDEPTH	3020.0
+DEBUG - 17299	4	LUNITS	2.0
+DEBUG - 17300	6	LUPREC	4.0
+DEBUG - 17302	0	AUNITS	0.0
+DEBUG - 17302	2	AUPREC	0.0
+DEBUG - 17302	4	ATTMODE	1.0
+DEBUG - 17303	6	PDMODE	0.0
+DEBUG - 17304	0	USERI1	0.0
+DEBUG - 17304	2	USERI2	0.0
+DEBUG - 17304	4	USERI3	0.0
+DEBUG - 17304	6	USERI4	0.0
+DEBUG - 17305	0	USERI5	0.0
+DEBUG - 17305	2	SPLINESEGS	8.0
+DEBUG - 17306	4	SURFU	6.0
+DEBUG - 17307	6	SURFV	6.0
+DEBUG - 17309	0	SURFTYPE	6.0
+DEBUG - 17310	2	SURFTAB1	6.0
+DEBUG - 17311	4	SURFTAB2	6.0
+DEBUG - 17312	6	SPLINETYPE	6.0
+DEBUG - 17314	0	SHADEDGE	3.0
+DEBUG - 17315	2	SHADEDIF	70.0
+DEBUG - 17316	4	UNITMODE	0.0
+DEBUG - 17316	6	MAXACTVP	64.0
+DEBUG - 17318	0	ISOLINES	4.0
+DEBUG - 17319	2	CMLJUST	0.0
+DEBUG - 17319	4	TEXTQLTY	50.0
+DEBUG - 17320	6	LTSCALE	1.0
+DEBUG - 17321	0	TEXTSIZE	0.2
+DEBUG - 17329	2	TRACEWID	0.05
+DEBUG - 17337	4	SKETCHINC	0.1
+DEBUG - 17345	6	FILLETRAD	0.0
+DEBUG - 17346	0	THICKNESS	0.0
+DEBUG - 17346	2	ANGBASE	0.0
+DEBUG - 17346	4	PDSIZE	0.0
+DEBUG - 17346	6	PLINEWID	0.0
+DEBUG - 17347	0	USERR1	0.0
+DEBUG - 17347	2	USERR2	0.0
+DEBUG - 17347	4	USERR3	0.0
+DEBUG - 17347	6	USERR4	0.0
+DEBUG - 17348	0	USERR5	0.0
+DEBUG - 17348	2	CHAMFERA	0.0
+DEBUG - 17348	4	CHAMFERB	0.0
+DEBUG - 17348	6	CHAMFERC	0.0
+DEBUG - 17349	0	CHAMFERD	0.0
+DEBUG - 17349	2	FACETRES	0.5
+DEBUG - 17357	4	CMLSCALE	1.0
+DEBUG - 17357	6	CELTSCALE	1.0
+DEBUG - 17358	0	MENUNAME	'.'
+DEBUG - 17361	2	TDCREATE_JD	2458413.0
+DEBUG - 17365	4	TDCREATE_MS	63066937.0
+DEBUG - 17369	6	TDUPDATE_JD	2458413.0
+DEBUG - 17374	0	TDUPDATE_MS	63100868.0
+DEBUG - 17378	2	TDINDWG_JD	0.0
+DEBUG - 17378	4	TDINDWG_MS	34149.0
+DEBUG - 17382	6	TDUSRTIMER_JD	0.0
+DEBUG - 17383	0	TDUSRTIMER_MS	34024.0
+DEBUG - 17387	2	CECOLOR	Color(256,,,0,0)
+DEBUG - 17387	4	HANDSEED	Handle(0,2,352)
+DEBUG - 17390	4	CLAYER	Handle(5,1,16)
+DEBUG - 17392	4	TEXTSTYLE	Handle(5,1,17)
+DEBUG - 17394	4	CELTYPE	Handle(5,1,21)
+DEBUG - 17396	4	DIMSTYLE	Handle(5,1,39)
+DEBUG - 17398	4	CMLSTYLE	Handle(5,1,24)
+DEBUG - 17400	4	PSVPSCALE	0.0
+DEBUG - 17400	6	INSBASE_PS	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17401	4	EXTMIN_PS	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17402	2	EXTMAX_PS	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17403	0	LIMMIN_PS	2DPoint(0,0)
+DEBUG - 17419	0	LIMMAX_PS	2DPoint(12,9)
+DEBUG - 17435	0	ELEVATION_PS	0.0
+DEBUG - 17435	2	UCSORG_PS	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17436	0	UCSXDIR_PS	3DPoint(1.000000,0.000000,0.000000)
+DEBUG - 17436	6	UCSYDIR_PS	3DPoint(0.000000,1.000000,0.000000)
+DEBUG - 17437	4	UCSNAME_PS	Handle(5,0,0)
+DEBUG - 17438	4	PUCSORTHOREF	Handle(5,0,0)
+DEBUG - 17439	4	PUCSORTHOVIEW	0.0
+DEBUG - 17439	6	PUCSBASE	Handle(5,0,0)
+DEBUG - 17440	6	PUCSORGTOP	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17441	4	PUCSORGBOTTOM	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17442	2	PUCSORGLEFT	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17443	0	PUCSORGRIGHT	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17443	6	PUCSORGFRONT	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17444	4	PUCSORGBACK	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17445	2	INSBASE_MS	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17446	0	EXTMIN_MS	3DPoint(100000000000000000000.000000,100000000000000000000.000000,100000000000000000000.000000)
+DEBUG - 17470	6	EXTMAX_MS	3DPoint(-100000000000000000000.000000,-100000000000000000000.000000,-100000000000000000000.000000)
+DEBUG - 17495	4	LIMMIN_MS	2DPoint(0,0)
+DEBUG - 17511	4	LIMMAX_MS	2DPoint(12,9)
+DEBUG - 17527	4	ELEVATION_MS	0.0
+DEBUG - 17527	6	UCSORG_MS	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17528	4	UCSXDIR_MS	3DPoint(1.000000,0.000000,0.000000)
+DEBUG - 17529	2	UCSYDIR_MS	3DPoint(0.000000,1.000000,0.000000)
+DEBUG - 17530	0	UCSNAME_MS	Handle(5,0,0)
+DEBUG - 17531	0	UCSORTHOREF	Handle(5,0,0)
+DEBUG - 17532	0	UCSORTHOVIEW	0.0
+DEBUG - 17532	2	UCSBASE	Handle(5,0,0)
+DEBUG - 17533	2	UCSORGTOP	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17534	0	UCSORGBOTTOM	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17534	6	UCSORGLEFT	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17535	4	UCSORGRIGHT	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17536	2	UCSORGFRONT	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17537	0	UCSORGBACK	3DPoint(0.000000,0.000000,0.000000)
+DEBUG - 17537	6	DIMPOST	''
+DEBUG - 17538	0	DIMAPOST	''
+DEBUG - 17538	2	DIMSCALE	1.0
+DEBUG - 17538	4	DIMASZ	0.18
+DEBUG - 17546	6	DIMEXO	0.0625
+DEBUG - 17555	0	DIMDLI	0.38
+DEBUG - 17563	2	DIMEXE	0.18
+DEBUG - 17571	4	DIMRND	0.0
+DEBUG - 17571	6	DIMDLE	0.0
+DEBUG - 17572	0	DIMTP	0.0
+DEBUG - 17572	2	DIMTM	0.0
+DEBUG - 17572	4	DIMTOL	0
+DEBUG - 17572	5	DIMLIM	0
+DEBUG - 17572	6	DIMTIH	1
+DEBUG - 17572	7	DIMTOH	1
+DEBUG - 17573	0	DIMSE1	0
+DEBUG - 17573	1	DIMSE2	0
+DEBUG - 17573	2	DIMTAD	0.0
+DEBUG - 17573	4	DIMZIN	0.0
+DEBUG - 17573	6	DIMAZIN	0.0
+DEBUG - 17574	0	DIMTXT	0.18
+DEBUG - 17582	2	DIMCEN	0.09
+DEBUG - 17590	4	DIMTSZ	0.0
+DEBUG - 17590	6	DIMALTF	25.4
+DEBUG - 17599	0	DIMLFAC	1.0
+DEBUG - 17599	2	DIMTVP	0.0
+DEBUG - 17599	4	DIMTFAC	1.0
+DEBUG - 17599	6	DIMGAP	0.09
+DEBUG - 17608	0	DIMALTRND	0.0
+DEBUG - 17608	2	DIMALT	0
+DEBUG - 17608	3	DIMALTD	2.0
+DEBUG - 17609	5	DIMTOFL	0
+DEBUG - 17609	6	DIMSAH	0
+DEBUG - 17609	7	DIMTIX	0
+DEBUG - 17610	0	DIMSOXD	0
+DEBUG - 17610	1	DIMCLRD	Color(0,,,0,0)
+DEBUG - 17610	3	DIMCLRE	Color(0,,,0,0)
+DEBUG - 17610	5	DIMCLRT	Color(0,,,0,0)
+DEBUG - 17610	7	DIMADEC	0.0
+DEBUG - 17611	1	DIMDEC	4.0
+DEBUG - 17612	3	DIMTDEC	4.0
+DEBUG - 17613	5	DIMALTU	2.0
+DEBUG - 17614	7	DIMALTTD	2.0
+DEBUG - 17616	1	DIMAUNIT	0.0
+DEBUG - 17616	3	DIMFRAC	0.0
+DEBUG - 17616	5	DIMLUNIT	2.0
+DEBUG - 17617	7	DIMDSEP	46.0
+DEBUG - 17619	1	DIMTMOVE	0.0
+DEBUG - 17619	3	DIMJUST	0.0
+DEBUG - 17619	5	DIMSD1	0
+DEBUG - 17619	6	DIMSD2	0
+DEBUG - 17619	7	DIMTOLJ	1.0
+DEBUG - 17621	1	DIMTZIN	0.0
+DEBUG - 17621	3	DIMALTZ	0.0
+DEBUG - 17621	5	DIMALTTZ	0.0
+DEBUG - 17621	7	DIMUPT	0
+DEBUG - 17622	0	DIMATFIT	3.0
+DEBUG - 17623	2	DIMTXSTY	Handle(5,1,17)
+DEBUG - 17625	2	DIMLDRBLK	Handle(5,0,0)
+DEBUG - 17626	2	DIMBLK	Handle(5,0,0)
+DEBUG - 17627	2	DIMBLK1	Handle(5,0,0)
+DEBUG - 17628	2	DIMBLK2	Handle(5,0,0)
+DEBUG - 17629	2	DIMLWD	65534.0
+DEBUG - 17631	4	DIMLWE	65534.0
+DEBUG - 17633	6	BLOCK_CONTROL_OBJECT	Handle(3,1,1)
+DEBUG - 17635	6	LAYER_CONTROL_OBJECT	Handle(3,1,2)
+DEBUG - 17637	6	STYLE_CONTROL_OBJECT	Handle(3,1,3)
+DEBUG - 17639	6	LINETYPE_CONTROL_OBJECT	Handle(3,1,5)
+DEBUG - 17641	6	VIEW_CONTROL_OBJECT	Handle(3,1,6)
+DEBUG - 17643	6	UCS_CONTROL_OBJECT	Handle(3,1,7)
+DEBUG - 17645	6	VPORT_CONTROL_OBJECT	Handle(3,1,8)
+DEBUG - 17647	6	APPID_CONTROL_OBJECT	Handle(3,1,9)
+DEBUG - 17649	6	DIMSTYLE_CONTROL_OBJECT	Handle(3,1,10)
+DEBUG - 17651	6	VIEWPORT_ENTITY_HEADER_CONTROL_OBJECT	Handle(3,2,327)
+DEBUG - 17654	6	DICTIONARY_ACAD_GROUP	Handle(5,1,13)
+DEBUG - 17656	6	DICTIONARY_ACAD_MLINESTYLE	Handle(5,1,23)
+DEBUG - 17658	6	DICTIONARY_NAMED_OBJECTS	Handle(3,1,12)
+DEBUG - 17660	6	TSTACKALIGN	1.0
+DEBUG - 17662	0	TSTACKSIZE	70.0
+DEBUG - 17663	2	HYPERLINKBASE	''
+DEBUG - 17663	4	STYLESHEET	''
+DEBUG - 17663	6	DICTIONARY_LAYOUTS	Handle(5,1,26)
+DEBUG - 17665	6	DICTIONARY_PLOTSETTINGS	Handle(5,1,25)
+DEBUG - 17667	6	DICTIONARY_PLOTSTYLES	Handle(5,1,14)
+DEBUG - 17669	6	FLAGS	10781.0
+DEBUG - 17674	0	INSUNITS	1.0
+DEBUG - 17675	2	CEPSNTYPE	0.0
+DEBUG - 17675	4	FINGERPRINTGUID	'{EB61018A-2D64-4AE5-8687-4CE9D7D70539}'
+DEBUG - 17715	6	VERSIONGUID	'{7D0B7842-5B0D-4614-BF2D-B838D932E26D}'
+DEBUG - 17756	0	BLOCK_RECORD_PS	Handle(5,1,88)
+DEBUG - 17758	0	BLOCK_RECORD_MS	Handle(5,1,31)
+DEBUG - 17760	0	LTYPE_BYLAYER	Handle(5,1,21)
+DEBUG - 17762	0	LTYPE_BYBLOCK	Handle(5,1,20)
+DEBUG - 17764	0	LTYPE_CONTINUOUS	Handle(5,1,22)
+DEBUG - 17766	0	UNKNOWN_24	28976.0
+DEBUG - 17768	2	UNKNOWN_25	16934.0
+DEBUG - 17770	4	UNKNOWN_26	35870.0
+DEBUG - 17772	6	UNKNOWN_27	50780.0
+DEBUG - Generating variables from Flags
+DEBUG - CELWEIGHT 29
+DEBUG - ENDCAPS 29
+DEBUG - JOINSTYLE 29
+DEBUG - LWDISPLAY 29
+DEBUG - XEDIT 29
+DEBUG - EXTNAMES 29
+DEBUG - PSTYLEMODE 29
+DEBUG - OLESTARTUP 29
+DEBUG - Reading CRC from 17275 for 500 bytes = 1163
+DEBUG - 17775	0	CRC2	1163
+INFO - CRC matched.
+DEBUG - 17793 Sentinel found at correct location.
+DEBUG - Shifting dat.byte to section 1 address.
+DEBUG - 17809 Sentinel found at correct location.
+DEBUG - 17809 0	Start Reading Classes 
+DEBUG - 18377 2	Stop Reading Classes 
+DEBUG - 18378	0	CRC2	48659
+DEBUG - Reading CRC from 17809 for 569 bytes = 48659
+INFO - CRC matched.
+DEBUG - Scan begins at 18396 and ends at 29646
+DEBUG - 18396	0	Object Size	3530
+DEBUG - 18398	0	Object Type	0.0
+DEBUG - 18400	2	Handle	Handle(4,4,19941376)
+DEBUG - Reading CRC from 18396 for 3532 bytes = 56779
+DEBUG - CRCB reading at 18396
+DEBUG - 21928	0	CRC	42534
+DEBUG - CRC Mismatch 56779 42534
+
+
+DEBUG - 18397	0	Object Size	13
+DEBUG - 18399	0	Object Type	17408.0
+DEBUG - 18401	2	Handle	Handle(0,1,48)
+DEBUG - Reading CRC from 18397 for 15 bytes = 24291
+DEBUG - CRCB reading at 18397
+DEBUG - 18412	0	CRC	8496
+DEBUG - CRC Mismatch 24291 8496
+
+
+DEBUG - 18398	0	Object Size	0
+DEBUG - 18400	0	Object Type	324.0
+DEBUG - 18402	2	Handle	Handle(3,0,0)
+DEBUG - Reading CRC from 18398 for 2 bytes = 49233
+DEBUG - CRCB reading at 18398
+DEBUG - 18400	0	CRC	17
+DEBUG - CRC Mismatch 49233 17
+
+
+DEBUG - 18399	0	Object Size	4352
+DEBUG - 18401	0	Object Type	12289.0
+DEBUG - 18403	2	Handle	Handle(4,8,4322493696)
+DEBUG - Reading CRC from 18399 for 4354 bytes = 35729
+DEBUG - CRCB reading at 18399
+DEBUG - 22753	0	CRC	1
+DEBUG - CRC Mismatch 35729 1
+
+
+DEBUG - 18400	0	Object Size	17
+DEBUG - 18402	0	Object Type	48.0
+DEBUG - 18403	2	Handle	Handle(4,8,4322493696)
+DEBUG - Reading CRC from 18400 for 19 bytes = 19395
+DEBUG - CRCB reading at 18400
+DEBUG - 18419	0	CRC	19395
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18421	0	Object Size	13
+DEBUG - 18423	0	Object Type	50.0
+DEBUG - 18424	2	Handle	Handle(4,8,4339270912)
+DEBUG - Reading CRC from 18421 for 15 bytes = 45489
+DEBUG - CRCB reading at 18421
+DEBUG - 18436	0	CRC	45489
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18438	0	Object Size	15
+DEBUG - 18440	0	Object Type	52.0
+DEBUG - 18441	2	Handle	Handle(4,8,4356049152)
+DEBUG - Reading CRC from 18438 for 17 bytes = 15658
+DEBUG - CRCB reading at 18438
+DEBUG - 18455	0	CRC	15658
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18457	0	Object Size	17
+DEBUG - 18459	0	Object Type	56.0
+DEBUG - 18460	2	Handle	Handle(4,8,4389602560)
+DEBUG - Reading CRC from 18457 for 19 bytes = 11891
+DEBUG - CRCB reading at 18457
+DEBUG - 18476	0	CRC	11891
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18478	0	Object Size	10
+DEBUG - 18480	0	Object Type	60.0
+DEBUG - 18481	2	Handle	Handle(4,0,0)
+DEBUG - Reading CRC from 18478 for 12 bytes = 30176
+DEBUG - CRCB reading at 18478
+DEBUG - 18490	0	CRC	30176
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18492	0	Object Size	10
+DEBUG - 18494	0	Object Type	62.0
+DEBUG - 18495	2	Handle	Handle(4,0,0)
+DEBUG - Reading CRC from 18492 for 12 bytes = 26496
+DEBUG - CRCB reading at 18492
+DEBUG - 18504	0	CRC	26496
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18506	0	Object Size	15
+DEBUG - 18508	0	Object Type	64.0
+DEBUG - 18509	2	Handle	Handle(4,8,4439934208)
+DEBUG - Reading CRC from 18506 for 17 bytes = 8291
+DEBUG - CRCB reading at 18506
+DEBUG - 18523	0	CRC	8291
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18525	0	Object Size	24
+DEBUG - 18527	0	Object Type	66.0
+DEBUG - 18528	2	Handle	Handle(4,8,4456716544)
+DEBUG - Reading CRC from 18525 for 26 bytes = 5364
+DEBUG - CRCB reading at 18525
+DEBUG - 18551	0	CRC	5364
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18553	0	Object Size	35
+DEBUG - 18555	0	Object Type	67.0
+DEBUG - 18556	2	Handle	Handle(15,4,1)
+DEBUG - Reading CRC from 18553 for 37 bytes = 32692
+DEBUG - CRCB reading at 18553
+DEBUG - 18590	0	CRC	32692
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18592	0	Object Size	32
+DEBUG - 18594	0	Object Type	67.0
+DEBUG - 18595	2	Handle	Handle(13,12,36967696665458574609)
+DEBUG - Reading CRC from 18592 for 34 bytes = 53870
+DEBUG - CRCB reading at 18592
+DEBUG - 18626	0	CRC	53870
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18628	0	Object Size	20
+DEBUG - 18630	0	Object Type	68.0
+DEBUG - 18631	2	Handle	Handle(5,0,0)
+DEBUG - Reading CRC from 18628 for 22 bytes = 49749
+DEBUG - CRCB reading at 18628
+DEBUG - 18650	0	CRC	49749
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18652	0	Object Size	11
+DEBUG - 18654	0	Object Type	70.0
+DEBUG - 18655	2	Handle	Handle(4,8,8611408128)
+DEBUG - Reading CRC from 18652 for 13 bytes = 697
+DEBUG - CRCB reading at 18652
+DEBUG - 18665	0	CRC	697
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18667	0	Object Size	279
+DEBUG - 18669	0	Object Type	42.0
+DEBUG - 18670	2	Handle	Handle(11,14,141976868494185283969406144139345)
+DEBUG - Reading CRC from 18667 for 281 bytes = 21775
+DEBUG - CRCB reading at 18667
+DEBUG - 18948	0	CRC	21775
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18950	0	Object Size	44
+DEBUG - 18952	0	Object Type	42.0
+DEBUG - 18953	2	Handle	Handle(1,6,1099511748496)
+DEBUG - Reading CRC from 18950 for 46 bytes = 65018
+DEBUG - CRCB reading at 18950
+DEBUG - 18996	0	CRC	65018
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 18998	0	Object Size	30
+DEBUG - 19000	0	Object Type	42.0
+DEBUG - 19001	2	Handle	Handle(11,4,1)
+DEBUG - Reading CRC from 18998 for 32 bytes = 33966
+DEBUG - CRCB reading at 18998
+DEBUG - 19030	0	CRC	33966
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19032	0	Object Size	17
+DEBUG - 19034	0	Object Type	42.0
+DEBUG - 19035	2	Handle	Handle(5,10,309581662191681)
+DEBUG - Reading CRC from 19032 for 19 bytes = 6956
+DEBUG - CRCB reading at 19032
+DEBUG - 19051	0	CRC	6956
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19053	0	Object Size	31
+DEBUG - 19055	0	Object Type	500.0
+DEBUG - 19057	2	Handle	Handle(10,12,19496104798611063251)
+DEBUG - Reading CRC from 19053 for 33 bytes = 22569
+DEBUG - CRCB reading at 19053
+DEBUG - 19086	0	CRC	22569
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19088	0	Object Size	256
+DEBUG - 19090	0	Object Type	42.0
+DEBUG - 19091	2	Handle	Handle(12,4,67108865)
+DEBUG - Reading CRC from 19088 for 258 bytes = 51051
+DEBUG - CRCB reading at 19088
+DEBUG - 19346	0	CRC	51051
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19348	0	Object Size	30
+DEBUG - 19350	0	Object Type	507.0
+DEBUG - 19352	2	Handle	Handle(12,7,33629840)
+DEBUG - Reading CRC from 19348 for 32 bytes = 16602
+DEBUG - CRCB reading at 19348
+DEBUG - 19380	0	CRC	16602
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19382	0	Object Size	30
+DEBUG - 19384	0	Object Type	507.0
+DEBUG - 19386	2	Handle	Handle(12,7,33630096)
+DEBUG - Reading CRC from 19382 for 32 bytes = 12356
+DEBUG - CRCB reading at 19382
+DEBUG - 19414	0	CRC	12356
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19416	0	Object Size	31
+DEBUG - 19418	0	Object Type	507.0
+DEBUG - 19420	2	Handle	Handle(12,15,620370498255667518443094080)
+DEBUG - Reading CRC from 19416 for 33 bytes = 26857
+DEBUG - CRCB reading at 19416
+DEBUG - 19449	0	CRC	26857
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19451	0	Object Size	31
+DEBUG - 19453	0	Object Type	507.0
+DEBUG - 19455	2	Handle	Handle(12,15,620375220622150388088700992)
+DEBUG - Reading CRC from 19451 for 33 bytes = 4541
+DEBUG - CRCB reading at 19451
+DEBUG - 19484	0	CRC	4541
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19486	0	Object Size	31
+DEBUG - 19488	0	Object Type	507.0
+DEBUG - 19490	2	Handle	Handle(12,15,620379942988633257750298688)
+DEBUG - Reading CRC from 19486 for 33 bytes = 50291
+DEBUG - CRCB reading at 19486
+DEBUG - 19519	0	CRC	50291
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19521	0	Object Size	31
+DEBUG - 19523	0	Object Type	507.0
+DEBUG - 19525	2	Handle	Handle(12,15,620384665355116127412289600)
+DEBUG - Reading CRC from 19521 for 33 bytes = 47791
+DEBUG - CRCB reading at 19521
+DEBUG - 19554	0	CRC	47791
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19556	0	Object Size	31
+DEBUG - 19558	0	Object Type	507.0
+DEBUG - 19560	2	Handle	Handle(12,15,620389387721598997074280512)
+DEBUG - Reading CRC from 19556 for 33 bytes = 61446
+DEBUG - CRCB reading at 19556
+DEBUG - 19589	0	CRC	61446
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19591	0	Object Size	31
+DEBUG - 19593	0	Object Type	507.0
+DEBUG - 19595	2	Handle	Handle(12,15,620394110088081866736271424)
+DEBUG - Reading CRC from 19591 for 33 bytes = 20231
+DEBUG - CRCB reading at 19591
+DEBUG - 19624	0	CRC	20231
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19626	0	Object Size	32
+DEBUG - 19628	0	Object Type	507.0
+DEBUG - 19630	2	Handle	Handle(13,7,33631888)
+DEBUG - Reading CRC from 19626 for 34 bytes = 22096
+DEBUG - CRCB reading at 19626
+DEBUG - 19660	0	CRC	22096
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19662	0	Object Size	30
+DEBUG - 19664	0	Object Type	507.0
+DEBUG - 19666	2	Handle	Handle(12,7,33632144)
+DEBUG - Reading CRC from 19662 for 32 bytes = 55478
+DEBUG - CRCB reading at 19662
+DEBUG - 19694	0	CRC	55478
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19696	0	Object Size	30
+DEBUG - 19698	0	Object Type	507.0
+DEBUG - 19700	2	Handle	Handle(12,7,33632400)
+DEBUG - Reading CRC from 19696 for 32 bytes = 25248
+DEBUG - CRCB reading at 19696
+DEBUG - 19728	0	CRC	25248
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19730	0	Object Size	30
+DEBUG - 19732	0	Object Type	507.0
+DEBUG - 19734	2	Handle	Handle(12,7,33632656)
+DEBUG - Reading CRC from 19730 for 32 bytes = 20319
+DEBUG - CRCB reading at 19730
+DEBUG - 19762	0	CRC	20319
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19764	0	Object Size	31
+DEBUG - 19766	0	Object Type	507.0
+DEBUG - 19768	2	Handle	Handle(12,15,620417721920496172096618496)
+DEBUG - Reading CRC from 19764 for 33 bytes = 2729
+DEBUG - CRCB reading at 19764
+DEBUG - 19797	0	CRC	2729
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19799	0	Object Size	32
+DEBUG - 19801	0	Object Type	507.0
+DEBUG - 19803	2	Handle	Handle(13,7,33633168)
+DEBUG - Reading CRC from 19799 for 34 bytes = 35809
+DEBUG - CRCB reading at 19799
+DEBUG - 19833	0	CRC	35809
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19835	0	Object Size	49
+DEBUG - 19837	0	Object Type	507.0
+DEBUG - 19839	2	Handle	Handle(5,15,5192297478961994284807153037490210)
+DEBUG - Reading CRC from 19835 for 51 bytes = 56527
+DEBUG - CRCB reading at 19835
+DEBUG - 19886	0	CRC	56527
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19888	0	Object Size	48
+DEBUG - 19890	0	Object Type	507.0
+DEBUG - 19892	2	Handle	Handle(5,7,281475010344336)
+DEBUG - Reading CRC from 19888 for 50 bytes = 56521
+DEBUG - CRCB reading at 19888
+DEBUG - 19938	0	CRC	56521
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19940	0	Object Size	48
+DEBUG - 19942	0	Object Type	507.0
+DEBUG - 19944	2	Handle	Handle(5,7,281475010344592)
+DEBUG - Reading CRC from 19940 for 50 bytes = 13581
+DEBUG - CRCB reading at 19940
+DEBUG - 19990	0	CRC	13581
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 19992	0	Object Size	48
+DEBUG - 19994	0	Object Type	507.0
+DEBUG - 19996	2	Handle	Handle(5,7,281475010344848)
+DEBUG - Reading CRC from 19992 for 50 bytes = 59844
+DEBUG - CRCB reading at 19992
+DEBUG - 20042	0	CRC	59844
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20044	0	Object Size	48
+DEBUG - 20046	0	Object Type	507.0
+DEBUG - 20048	2	Handle	Handle(5,7,281475010345104)
+DEBUG - Reading CRC from 20044 for 50 bytes = 60657
+DEBUG - CRCB reading at 20044
+DEBUG - 20094	0	CRC	60657
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20096	0	Object Size	47
+DEBUG - 20098	0	Object Type	507.0
+DEBUG - 20100	2	Handle	Handle(4,15,5192297478985606116658551426523197)
+DEBUG - Reading CRC from 20096 for 49 bytes = 6620
+DEBUG - CRCB reading at 20096
+DEBUG - 20145	0	CRC	6620
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20147	0	Object Size	48
+DEBUG - 20149	0	Object Type	507.0
+DEBUG - 20151	2	Handle	Handle(5,7,281475010345616)
+DEBUG - Reading CRC from 20147 for 50 bytes = 31765
+DEBUG - CRCB reading at 20147
+DEBUG - 20197	0	CRC	31765
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20199	0	Object Size	47
+DEBUG - 20201	0	Object Type	507.0
+DEBUG - 20203	2	Handle	Handle(4,15,5192297478995050849624290649841725)
+DEBUG - Reading CRC from 20199 for 49 bytes = 37284
+DEBUG - CRCB reading at 20199
+DEBUG - 20248	0	CRC	37284
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20250	0	Object Size	47
+DEBUG - 20252	0	Object Type	507.0
+DEBUG - 20254	2	Handle	Handle(4,15,5192297478999773216109359385419837)
+DEBUG - Reading CRC from 20250 for 49 bytes = 31142
+DEBUG - CRCB reading at 20250
+DEBUG - 20299	0	CRC	31142
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20301	0	Object Size	47
+DEBUG - 20303	0	Object Type	507.0
+DEBUG - 20305	2	Handle	Handle(4,15,5192297479004495582590029906714685)
+DEBUG - Reading CRC from 20301 for 49 bytes = 46279
+DEBUG - CRCB reading at 20301
+DEBUG - 20350	0	CRC	46279
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20352	0	Object Size	47
+DEBUG - 20354	0	Object Type	507.0
+DEBUG - 20356	2	Handle	Handle(4,15,5192297479009217949075098608738365)
+DEBUG - Reading CRC from 20352 for 49 bytes = 20571
+DEBUG - CRCB reading at 20352
+DEBUG - 20401	0	CRC	20571
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20403	0	Object Size	37
+DEBUG - 20405	0	Object Type	507.0
+DEBUG - 20407	2	Handle	Handle(15,15,620479112686462266779705393)
+DEBUG - Reading CRC from 20403 for 39 bytes = 43505
+DEBUG - CRCB reading at 20403
+DEBUG - 20442	0	CRC	43505
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20444	0	Object Size	49
+DEBUG - 20446	0	Object Type	507.0
+DEBUG - 20448	2	Handle	Handle(5,15,5192297479018662682601580189921826)
+DEBUG - Reading CRC from 20444 for 51 bytes = 20822
+DEBUG - CRCB reading at 20444
+DEBUG - 20495	0	CRC	20822
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20497	0	Object Size	45
+DEBUG - 20499	0	Object Type	507.0
+DEBUG - 20501	2	Handle	Handle(3,15,5192297479023385047960701422608433)
+DEBUG - Reading CRC from 20497 for 47 bytes = 41071
+DEBUG - CRCB reading at 20497
+DEBUG - 20544	0	CRC	41071
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20546	0	Object Size	45
+DEBUG - 20548	0	Object Type	507.0
+DEBUG - 20550	2	Handle	Handle(3,15,5192297479028107414446869602705457)
+DEBUG - Reading CRC from 20546 for 47 bytes = 35065
+DEBUG - CRCB reading at 20546
+DEBUG - 20593	0	CRC	35065
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20595	0	Object Size	48
+DEBUG - 20597	0	Object Type	507.0
+DEBUG - 20599	2	Handle	Handle(5,7,281475010347920)
+DEBUG - Reading CRC from 20595 for 50 bytes = 3569
+DEBUG - CRCB reading at 20595
+DEBUG - 20645	0	CRC	3569
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20647	0	Object Size	30
+DEBUG - 20649	0	Object Type	42.0
+DEBUG - 20650	2	Handle	Handle(11,4,1)
+DEBUG - Reading CRC from 20647 for 32 bytes = 35709
+DEBUG - CRCB reading at 20647
+DEBUG - 20679	0	CRC	35709
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20681	0	Object Size	232
+DEBUG - 20683	0	Object Type	42.0
+DEBUG - 20684	2	Handle	Handle(1,2,1536)
+DEBUG - Reading CRC from 20681 for 234 bytes = 37365
+DEBUG - CRCB reading at 20681
+DEBUG - 20915	0	CRC	37365
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 20917	0	Object Size	99
+DEBUG - 20919	0	Object Type	506.0
+DEBUG - 20921	2	Handle	Handle(14,12,618970049494752183168925703)
+DEBUG - Reading CRC from 20917 for 101 bytes = 38924
+DEBUG - CRCB reading at 20917
+DEBUG - 21018	0	CRC	38924
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 21020	0	Object Size	105
+DEBUG - 21022	0	Object Type	506.0
+DEBUG - 21024	2	Handle	Handle(1,12,928455059820500410159202311)
+DEBUG - Reading CRC from 21020 for 107 bytes = 48067
+DEBUG - CRCB reading at 21020
+DEBUG - 21127	0	CRC	48067
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 21129	0	Object Size	107
+DEBUG - 21131	0	Object Type	506.0
+DEBUG - 21133	2	Handle	Handle(2,12,928455060108730786310914055)
+DEBUG - Reading CRC from 21129 for 109 bytes = 7189
+DEBUG - CRCB reading at 21129
+DEBUG - 21238	0	CRC	7189
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 21240	0	Object Size	114
+DEBUG - 21242	0	Object Type	506.0
+DEBUG - 21244	2	Handle	Handle(6,4,50331649)
+DEBUG - Reading CRC from 21240 for 116 bytes = 19091
+DEBUG - CRCB reading at 21240
+DEBUG - 21356	0	CRC	19091
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 21358	0	Object Size	103
+DEBUG - 21360	0	Object Type	506.0
+DEBUG - 21362	2	Handle	Handle(0,12,928455059748442816121274375)
+DEBUG - Reading CRC from 21358 for 105 bytes = 35688
+DEBUG - CRCB reading at 21358
+DEBUG - 21463	0	CRC	35688
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 21465	0	Object Size	107
+DEBUG - 21467	0	Object Type	506.0
+DEBUG - 21469	2	Handle	Handle(2,12,928455060036673192272986119)
+DEBUG - Reading CRC from 21465 for 109 bytes = 20691
+DEBUG - CRCB reading at 21465
+DEBUG - 21574	0	CRC	20691
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 21576	0	Object Size	98
+DEBUG - 21578	0	Object Type	506.0
+DEBUG - 21580	2	Handle	Handle(14,12,618970049206521807017213959)
+DEBUG - Reading CRC from 21576 for 100 bytes = 48893
+DEBUG - CRCB reading at 21576
+DEBUG - 21676	0	CRC	48893
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 21678	0	Object Size	110
+DEBUG - 21680	0	Object Type	506.0
+DEBUG - 21682	2	Handle	Handle(4,4,50331649)
+DEBUG - Reading CRC from 21678 for 112 bytes = 26323
+DEBUG - CRCB reading at 21678
+DEBUG - 21790	0	CRC	26323
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 21792	0	Object Size	102
+DEBUG - 21794	0	Object Type	506.0
+DEBUG - 21796	2	Handle	Handle(0,4,50331649)
+DEBUG - Reading CRC from 21792 for 104 bytes = 59664
+DEBUG - CRCB reading at 21792
+DEBUG - 21896	0	CRC	59664
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 21898	0	Object Size	113
+DEBUG - 21900	0	Object Type	506.0
+DEBUG - 21902	2	Handle	Handle(5,12,928455059244039657855778823)
+DEBUG - Reading CRC from 21898 for 115 bytes = 35316
+DEBUG - CRCB reading at 21898
+DEBUG - 22013	0	CRC	35316
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22015	0	Object Size	107
+DEBUG - 22017	0	Object Type	506.0
+DEBUG - 22019	2	Handle	Handle(2,12,928455059964615598235058183)
+DEBUG - Reading CRC from 22015 for 109 bytes = 15786
+DEBUG - CRCB reading at 22015
+DEBUG - 22124	0	CRC	15786
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22126	0	Object Size	104
+DEBUG - 22128	0	Object Type	506.0
+DEBUG - 22130	2	Handle	Handle(1,4,50331649)
+DEBUG - Reading CRC from 22126 for 106 bytes = 46434
+DEBUG - CRCB reading at 22126
+DEBUG - 22232	0	CRC	46434
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22234	0	Object Size	103
+DEBUG - 22236	0	Object Type	506.0
+DEBUG - 22238	2	Handle	Handle(0,12,928455059892558004197130247)
+DEBUG - Reading CRC from 22234 for 105 bytes = 3310
+DEBUG - CRCB reading at 22234
+DEBUG - 22339	0	CRC	3310
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22341	0	Object Size	33
+DEBUG - 22343	0	Object Type	79.0
+DEBUG - 22344	2	Handle	Handle(13,10,562469256914944)
+DEBUG - Reading CRC from 22341 for 35 bytes = 37105
+DEBUG - CRCB reading at 22341
+DEBUG - 22376	0	CRC	37105
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22378	0	Object Size	148
+DEBUG - 22380	0	Object Type	42.0
+DEBUG - 22381	2	Handle	Handle(12,4,50331649)
+DEBUG - Reading CRC from 22378 for 150 bytes = 52034
+DEBUG - CRCB reading at 22378
+DEBUG - 22528	0	CRC	52034
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22530	0	Object Size	18
+DEBUG - 22532	0	Object Type	503.0
+DEBUG - 22534	2	Handle	Handle(7,0,0)
+DEBUG - Reading CRC from 22530 for 20 bytes = 42419
+DEBUG - CRCB reading at 22530
+DEBUG - 22550	0	CRC	42419
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22552	0	Object Size	19
+DEBUG - 22554	0	Object Type	503.0
+DEBUG - 22556	2	Handle	Handle(7,0,0)
+DEBUG - Reading CRC from 22552 for 21 bytes = 8292
+DEBUG - CRCB reading at 22552
+DEBUG - 22573	0	CRC	8292
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22575	0	Object Size	20
+DEBUG - 22577	0	Object Type	503.0
+DEBUG - 22579	2	Handle	Handle(7,8,8612974608)
+DEBUG - Reading CRC from 22575 for 22 bytes = 57490
+DEBUG - CRCB reading at 22575
+DEBUG - 22597	0	CRC	57490
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22599	0	Object Size	20
+DEBUG - 22601	0	Object Type	503.0
+DEBUG - 22603	2	Handle	Handle(7,8,8612843536)
+DEBUG - Reading CRC from 22599 for 22 bytes = 57880
+DEBUG - CRCB reading at 22599
+DEBUG - 22621	0	CRC	57880
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22623	0	Object Size	20
+DEBUG - 22625	0	Object Type	503.0
+DEBUG - 22627	2	Handle	Handle(7,8,8612778000)
+DEBUG - Reading CRC from 22623 for 22 bytes = 9086
+DEBUG - CRCB reading at 22623
+DEBUG - 22645	0	CRC	9086
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22647	0	Object Size	22
+DEBUG - 22649	0	Object Type	503.0
+DEBUG - 22651	2	Handle	Handle(8,8,8612909072)
+DEBUG - Reading CRC from 22647 for 24 bytes = 38772
+DEBUG - CRCB reading at 22647
+DEBUG - 22671	0	CRC	38772
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22673	0	Object Size	184
+DEBUG - 22675	0	Object Type	79.0
+DEBUG - 22676	2	Handle	Handle(9,2,1280)
+DEBUG - Reading CRC from 22673 for 186 bytes = 37060
+DEBUG - CRCB reading at 22673
+DEBUG - 22859	0	CRC	37060
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22861	0	Object Size	38
+DEBUG - 22863	0	Object Type	49.0
+DEBUG - 22864	2	Handle	Handle(12,13,6449745949944524674505)
+DEBUG - Reading CRC from 22861 for 40 bytes = 4865
+DEBUG - CRCB reading at 22861
+DEBUG - 22901	0	CRC	4865
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22903	0	Object Size	18
+DEBUG - 22905	0	Object Type	5.0
+DEBUG - 22906	2	Handle	Handle(5,4,1)
+DEBUG - Reading CRC from 22903 for 20 bytes = 15918
+DEBUG - CRCB reading at 22903
+DEBUG - 22923	0	CRC	15918
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22925	0	Object Size	38
+DEBUG - 22927	0	Object Type	49.0
+DEBUG - 22928	2	Handle	Handle(12,13,5306047817323929245105)
+DEBUG - Reading CRC from 22925 for 40 bytes = 56046
+DEBUG - CRCB reading at 22925
+DEBUG - 22965	0	CRC	56046
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22967	0	Object Size	16
+DEBUG - 22969	0	Object Type	5.0
+DEBUG - 22970	2	Handle	Handle(5,4,1)
+DEBUG - Reading CRC from 22967 for 18 bytes = 59844
+DEBUG - CRCB reading at 22967
+DEBUG - 22985	0	CRC	59844
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 22987	0	Object Size	38
+DEBUG - 22989	0	Object Type	49.0
+DEBUG - 22990	2	Handle	Handle(12,13,6357512229575976916425)
+DEBUG - Reading CRC from 22987 for 40 bytes = 19497
+DEBUG - CRCB reading at 22987
+DEBUG - 23027	0	CRC	19497
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 23029	0	Object Size	16
+DEBUG - 23031	0	Object Type	5.0
+DEBUG - 23032	2	Handle	Handle(5,4,1)
+DEBUG - Reading CRC from 23029 for 18 bytes = 61422
+DEBUG - CRCB reading at 23029
+DEBUG - 23047	0	CRC	61422
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 23049	0	Object Size	24
+DEBUG - 23051	0	Object Type	51.0
+DEBUG - 23052	2	Handle	Handle(7,8,4574152896)
+DEBUG - Reading CRC from 23049 for 26 bytes = 32810
+DEBUG - CRCB reading at 23049
+DEBUG - 23075	0	CRC	32810
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 23077	0	Object Size	39
+DEBUG - 23079	0	Object Type	53.0
+DEBUG - 23080	2	Handle	Handle(1,2,256)
+DEBUG - Reading CRC from 23077 for 41 bytes = 25185
+DEBUG - CRCB reading at 23077
+DEBUG - 23118	0	CRC	25185
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 23120	0	Object Size	76
+DEBUG - 23122	0	Object Type	53.0
+DEBUG - 23123	2	Handle	Handle(3,12,618970053962112126331092999)
+DEBUG - Reading CRC from 23120 for 78 bytes = 42377
+DEBUG - CRCB reading at 23120
+DEBUG - 23198	0	CRC	42377
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 23200	0	Object Size	295
+DEBUG - 23202	0	Object Type	57.0
+DEBUG - 23203	2	Handle	Handle(1,8,648518351016176909)
+DEBUG - Reading CRC from 23200 for 297 bytes = 25029
+DEBUG - CRCB reading at 23200
+DEBUG - 23497	0	CRC	25029
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 23499	0	Object Size	280
+DEBUG - 23501	0	Object Type	57.0
+DEBUG - 23502	2	Handle	Handle(10,0,0)
+DEBUG - Reading CRC from 23499 for 282 bytes = 32140
+DEBUG - CRCB reading at 23499
+DEBUG - 23781	0	CRC	32140
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 23783	0	Object Size	280
+DEBUG - 23785	0	Object Type	57.0
+DEBUG - 23786	2	Handle	Handle(10,0,0)
+DEBUG - Reading CRC from 23783 for 282 bytes = 19679
+DEBUG - CRCB reading at 23783
+DEBUG - 24065	0	CRC	19679
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24067	0	Object Size	40
+DEBUG - 24069	0	Object Type	42.0
+DEBUG - 24070	2	Handle	Handle(0,12,309485046808744724787184912)
+DEBUG - Reading CRC from 24067 for 42 bytes = 8925
+DEBUG - CRCB reading at 24067
+DEBUG - 24109	0	CRC	8925
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24111	0	Object Size	155
+DEBUG - 24113	0	Object Type	65.0
+DEBUG - 24114	2	Handle	Handle(10,5,17179869588)
+DEBUG - Reading CRC from 24111 for 157 bytes = 18745
+DEBUG - CRCB reading at 24111
+DEBUG - 24268	0	CRC	18745
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24270	0	Object Size	20
+DEBUG - 24272	0	Object Type	67.0
+DEBUG - 24273	2	Handle	Handle(7,12,19789965774010257411)
+DEBUG - Reading CRC from 24270 for 22 bytes = 55010
+DEBUG - CRCB reading at 24270
+DEBUG - 24292	0	CRC	55010
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24294	0	Object Size	26
+DEBUG - 24296	0	Object Type	67.0
+DEBUG - 24297	2	Handle	Handle(10,12,34417683754144600325)
+DEBUG - Reading CRC from 24294 for 28 bytes = 16824
+DEBUG - CRCB reading at 24294
+DEBUG - 24322	0	CRC	16824
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24324	0	Object Size	30
+DEBUG - 24326	0	Object Type	67.0
+DEBUG - 24327	2	Handle	Handle(12,12,34489758940368572677)
+DEBUG - Reading CRC from 24324 for 32 bytes = 32004
+DEBUG - CRCB reading at 24324
+DEBUG - 24356	0	CRC	32004
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24358	0	Object Size	34
+DEBUG - 24360	0	Object Type	67.0
+DEBUG - 24361	2	Handle	Handle(14,12,34561834124436640125)
+DEBUG - Reading CRC from 24358 for 36 bytes = 28303
+DEBUG - CRCB reading at 24358
+DEBUG - 24394	0	CRC	28303
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24396	0	Object Size	119
+DEBUG - 24398	0	Object Type	69.0
+DEBUG - 24399	2	Handle	Handle(6,5,12884902183)
+DEBUG - Reading CRC from 24396 for 121 bytes = 35485
+DEBUG - CRCB reading at 24396
+DEBUG - 24517	0	CRC	35485
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24519	0	Object Size	177
+DEBUG - 24521	0	Object Type	69.0
+DEBUG - 24522	2	Handle	Handle(3,3,327680)
+DEBUG - Reading CRC from 24519 for 179 bytes = 13043
+DEBUG - CRCB reading at 24519
+DEBUG - 24698	0	CRC	13043
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24700	0	Object Size	17
+DEBUG - 24702	0	Object Type	42.0
+DEBUG - 24703	2	Handle	Handle(5,10,408537708691521)
+DEBUG - Reading CRC from 24700 for 19 bytes = 60254
+DEBUG - CRCB reading at 24700
+DEBUG - 24719	0	CRC	60254
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24721	0	Object Size	16
+DEBUG - 24723	0	Object Type	42.0
+DEBUG - 24724	2	Handle	Handle(5,10,296387522658432)
+DEBUG - Reading CRC from 24721 for 18 bytes = 46223
+DEBUG - CRCB reading at 24721
+DEBUG - 24739	0	CRC	46223
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24741	0	Object Size	49
+DEBUG - 24743	0	Object Type	42.0
+DEBUG - 24744	2	Handle	Handle(3,0,0)
+DEBUG - Reading CRC from 24741 for 51 bytes = 54373
+DEBUG - CRCB reading at 24741
+DEBUG - 24792	0	CRC	54373
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24794	0	Object Size	50
+DEBUG - 24796	0	Object Type	42.0
+DEBUG - 24797	2	Handle	Handle(3,8,72057600254940173)
+DEBUG - Reading CRC from 24794 for 52 bytes = 25627
+DEBUG - CRCB reading at 24794
+DEBUG - 24846	0	CRC	25627
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24848	0	Object Size	106
+DEBUG - 24850	0	Object Type	508.0
+DEBUG - 24852	2	Handle	Handle(15,2,512)
+DEBUG - Reading CRC from 24848 for 108 bytes = 11686
+DEBUG - CRCB reading at 24848
+DEBUG - 24956	0	CRC	11686
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 24958	0	Object Size	105
+DEBUG - 24960	0	Object Type	508.0
+DEBUG - 24962	2	Handle	Handle(15,2,512)
+DEBUG - Reading CRC from 24958 for 107 bytes = 61750
+DEBUG - CRCB reading at 24958
+DEBUG - 25065	0	CRC	61750
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25067	0	Object Size	63
+DEBUG - 25069	0	Object Type	73.0
+DEBUG - 25070	2	Handle	Handle(13,6,1099511699600)
+DEBUG - Reading CRC from 25067 for 65 bytes = 38992
+DEBUG - CRCB reading at 25067
+DEBUG - 25132	0	CRC	38992
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25134	0	Object Size	14
+DEBUG - 25136	0	Object Type	501.0
+DEBUG - 25138	2	Handle	Handle(4,14,1282419378531012225076304)
+DEBUG - Reading CRC from 25134 for 16 bytes = 17284
+DEBUG - CRCB reading at 25134
+DEBUG - 25150	0	CRC	17284
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25152	0	Object Size	20
+DEBUG - 25154	0	Object Type	507.0
+DEBUG - 25156	2	Handle	Handle(7,15,531398917055043911489946125)
+DEBUG - Reading CRC from 25152 for 22 bytes = 24749
+DEBUG - CRCB reading at 25152
+DEBUG - 25174	0	CRC	24749
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25176	0	Object Size	30
+DEBUG - 25178	0	Object Type	507.0
+DEBUG - 25180	2	Handle	Handle(12,7,33629328)
+DEBUG - Reading CRC from 25176 for 32 bytes = 7448
+DEBUG - CRCB reading at 25176
+DEBUG - 25208	0	CRC	7448
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25210	0	Object Size	30
+DEBUG - 25212	0	Object Type	507.0
+DEBUG - 25214	2	Handle	Handle(12,7,33629584)
+DEBUG - Reading CRC from 25210 for 32 bytes = 21847
+DEBUG - CRCB reading at 25210
+DEBUG - 25242	0	CRC	21847
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25244	0	Object Size	253
+DEBUG - 25246	0	Object Type	504.0
+DEBUG - 25248	2	Handle	Handle(8,7,1970324862636052)
+DEBUG - Reading CRC from 25244 for 255 bytes = 47034
+DEBUG - CRCB reading at 25244
+DEBUG - 25499	0	CRC	47034
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25501	0	Object Size	106
+DEBUG - 25503	0	Object Type	506.0
+DEBUG - 25505	2	Handle	Handle(2,4,50331649)
+DEBUG - Reading CRC from 25501 for 108 bytes = 52125
+DEBUG - CRCB reading at 25501
+DEBUG - 25609	0	CRC	52125
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25611	0	Object Size	113
+DEBUG - 25613	0	Object Type	506.0
+DEBUG - 25615	2	Handle	Handle(5,12,928455059532270034007490567)
+DEBUG - Reading CRC from 25611 for 115 bytes = 55377
+DEBUG - CRCB reading at 25611
+DEBUG - 25726	0	CRC	55377
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25728	0	Object Size	106
+DEBUG - 25730	0	Object Type	506.0
+DEBUG - 25732	2	Handle	Handle(2,4,50331649)
+DEBUG - Reading CRC from 25728 for 108 bytes = 40938
+DEBUG - CRCB reading at 25728
+DEBUG - 25836	0	CRC	40938
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25838	0	Object Size	21
+DEBUG - 25840	0	Object Type	503.0
+DEBUG - 25842	2	Handle	Handle(8,0,0)
+DEBUG - Reading CRC from 25838 for 23 bytes = 41234
+DEBUG - CRCB reading at 25838
+DEBUG - 25861	0	CRC	41234
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25863	0	Object Size	26
+DEBUG - 25865	0	Object Type	503.0
+DEBUG - 25867	2	Handle	Handle(10,8,8314163204)
+DEBUG - Reading CRC from 25863 for 28 bytes = 50686
+DEBUG - CRCB reading at 25863
+DEBUG - 25891	0	CRC	50686
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25893	0	Object Size	26
+DEBUG - 25895	0	Object Type	503.0
+DEBUG - 25897	2	Handle	Handle(10,8,6602887172)
+DEBUG - Reading CRC from 25893 for 28 bytes = 41432
+DEBUG - CRCB reading at 25893
+DEBUG - 25921	0	CRC	41432
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25923	0	Object Size	33
+DEBUG - 25925	0	Object Type	4.0
+DEBUG - 25926	2	Handle	Handle(12,14,1660000631772591237240582)
+DEBUG - Reading CRC from 25923 for 35 bytes = 18318
+DEBUG - CRCB reading at 25923
+DEBUG - 25958	0	CRC	18318
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25960	0	Object Size	30
+DEBUG - 25962	0	Object Type	4.0
+DEBUG - 25963	2	Handle	Handle(12,6,73876)
+DEBUG - Reading CRC from 25960 for 32 bytes = 23093
+DEBUG - CRCB reading at 25960
+DEBUG - 25992	0	CRC	23093
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 25994	0	Object Size	30
+DEBUG - 25996	0	Object Type	4.0
+DEBUG - 25997	2	Handle	Handle(12,6,88716)
+DEBUG - Reading CRC from 25994 for 32 bytes = 64147
+DEBUG - CRCB reading at 25994
+DEBUG - 26026	0	CRC	64147
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 26028	0	Object Size	70
+DEBUG - 26030	0	Object Type	42.0
+DEBUG - 26031	2	Handle	Handle(14,6,1099511752356)
+DEBUG - Reading CRC from 26028 for 72 bytes = 24850
+DEBUG - CRCB reading at 26028
+DEBUG - 26100	0	CRC	24850
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 26102	0	Object Size	380
+DEBUG - 26104	0	Object Type	79.0
+DEBUG - 26105	2	Handle	Handle(11,2,2816)
+DEBUG - Reading CRC from 26102 for 382 bytes = 63933
+DEBUG - CRCB reading at 26102
+DEBUG - 26484	0	CRC	63933
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 26486	0	Object Size	88
+DEBUG - 26488	0	Object Type	502.0
+DEBUG - 26490	2	Handle	Handle(5,10,9444733345689697078895)
+DEBUG - Reading CRC from 26486 for 90 bytes = 17403
+DEBUG - CRCB reading at 26486
+DEBUG - 26576	0	CRC	17403
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 26578	0	Object Size	88
+DEBUG - 26580	0	Object Type	502.0
+DEBUG - 26582	2	Handle	Handle(5,10,9444733351187255217775)
+DEBUG - Reading CRC from 26578 for 90 bytes = 5872
+DEBUG - CRCB reading at 26578
+DEBUG - 26668	0	CRC	5872
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 26670	0	Object Size	186
+DEBUG - 26672	0	Object Type	502.0
+DEBUG - 26674	2	Handle	Handle(6,2,1280)
+DEBUG - Reading CRC from 26670 for 188 bytes = 65005
+DEBUG - CRCB reading at 26670
+DEBUG - 26858	0	CRC	65005
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 26860	0	Object Size	90
+DEBUG - 26862	0	Object Type	505.0
+DEBUG - 26864	2	Handle	Handle(9,4,33554433)
+DEBUG - Reading CRC from 26860 for 92 bytes = 62778
+DEBUG - CRCB reading at 26860
+DEBUG - 26952	0	CRC	62778
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 26954	0	Object Size	90
+DEBUG - 26956	0	Object Type	505.0
+DEBUG - 26958	2	Handle	Handle(9,4,33554433)
+DEBUG - Reading CRC from 26954 for 92 bytes = 59279
+DEBUG - CRCB reading at 26954
+DEBUG - 27046	0	CRC	59279
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27048	0	Object Size	177
+DEBUG - 27050	0	Object Type	505.0
+DEBUG - 27052	2	Handle	Handle(4,14,101412049946262774610088881651904)
+DEBUG - Reading CRC from 27048 for 179 bytes = 21818
+DEBUG - CRCB reading at 27048
+DEBUG - 27227	0	CRC	21818
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27229	0	Object Size	88
+DEBUG - 27231	0	Object Type	42.0
+DEBUG - 27232	2	Handle	Handle(7,6,2199023386884)
+DEBUG - Reading CRC from 27229 for 90 bytes = 47572
+DEBUG - CRCB reading at 27229
+DEBUG - 27319	0	CRC	47572
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27321	0	Object Size	41
+DEBUG - 27323	0	Object Type	79.0
+DEBUG - 27324	2	Handle	Handle(1,10,4722367047260829932952)
+DEBUG - Reading CRC from 27321 for 43 bytes = 21734
+DEBUG - CRCB reading at 27321
+DEBUG - 27364	0	CRC	21734
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27366	0	Object Size	21
+DEBUG - 27368	0	Object Type	79.0
+DEBUG - 27369	2	Handle	Handle(7,10,564369709862024)
+DEBUG - Reading CRC from 27366 for 23 bytes = 45062
+DEBUG - CRCB reading at 27366
+DEBUG - 27389	0	CRC	45062
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27391	0	Object Size	40
+DEBUG - 27393	0	Object Type	42.0
+DEBUG - 27394	2	Handle	Handle(0,12,309485046810152099670738192)
+DEBUG - Reading CRC from 27391 for 42 bytes = 31093
+DEBUG - CRCB reading at 27391
+DEBUG - 27433	0	CRC	31093
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27435	0	Object Size	40
+DEBUG - 27437	0	Object Type	42.0
+DEBUG - 27438	2	Handle	Handle(0,12,309485046810715049624159504)
+DEBUG - Reading CRC from 27435 for 42 bytes = 39440
+DEBUG - CRCB reading at 27435
+DEBUG - 27477	0	CRC	39440
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27479	0	Object Size	40
+DEBUG - 27481	0	Object Type	42.0
+DEBUG - 27482	2	Handle	Handle(0,12,309485046809589149717316880)
+DEBUG - Reading CRC from 27479 for 42 bytes = 3197
+DEBUG - CRCB reading at 27479
+DEBUG - 27521	0	CRC	3197
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27523	0	Object Size	40
+DEBUG - 27525	0	Object Type	42.0
+DEBUG - 27526	2	Handle	Handle(0,12,309485046812122424507712784)
+DEBUG - Reading CRC from 27523 for 42 bytes = 53057
+DEBUG - CRCB reading at 27523
+DEBUG - 27565	0	CRC	53057
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27567	0	Object Size	40
+DEBUG - 27569	0	Object Type	42.0
+DEBUG - 27570	2	Handle	Handle(0,12,309485046811559474554291472)
+DEBUG - Reading CRC from 27567 for 42 bytes = 5244
+DEBUG - CRCB reading at 27567
+DEBUG - 27609	0	CRC	5244
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27611	0	Object Size	105
+DEBUG - 27613	0	Object Type	42.0
+DEBUG - 27614	2	Handle	Handle(11,4,33554434)
+DEBUG - Reading CRC from 27611 for 107 bytes = 20407
+DEBUG - CRCB reading at 27611
+DEBUG - 27718	0	CRC	20407
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27720	0	Object Size	27
+DEBUG - 27722	0	Object Type	79.0
+DEBUG - 27723	2	Handle	Handle(10,2,0)
+DEBUG - Reading CRC from 27720 for 29 bytes = 48594
+DEBUG - CRCB reading at 27720
+DEBUG - 27749	0	CRC	48594
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 27751	0	Object Size	704
+DEBUG - 27753	0	Object Type	509.0
+DEBUG - 27755	2	Handle	Handle(0,14,425930604100652972357905689870848)
+DEBUG - Reading CRC from 27751 for 706 bytes = 10612
+DEBUG - CRCB reading at 27751
+DEBUG - 28457	0	CRC	10612
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 28459	0	Object Size	108
+DEBUG - 28461	0	Object Type	79.0
+DEBUG - 28462	2	Handle	Handle(2,10,14167100013030185199000)
+DEBUG - Reading CRC from 28459 for 110 bytes = 14141
+DEBUG - CRCB reading at 28459
+DEBUG - 28569	0	CRC	14141
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 28571	0	Object Size	89
+DEBUG - 28573	0	Object Type	79.0
+DEBUG - 28574	2	Handle	Handle(9,10,9444733530147655064984)
+DEBUG - Reading CRC from 28571 for 91 bytes = 43068
+DEBUG - CRCB reading at 28571
+DEBUG - 28662	0	CRC	43068
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 28664	0	Object Size	89
+DEBUG - 28666	0	Object Type	79.0
+DEBUG - 28667	2	Handle	Handle(9,10,9444733530156244999576)
+DEBUG - Reading CRC from 28664 for 91 bytes = 47380
+DEBUG - CRCB reading at 28664
+DEBUG - 28755	0	CRC	47380
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 28757	0	Object Size	89
+DEBUG - 28759	0	Object Type	79.0
+DEBUG - 28760	2	Handle	Handle(9,10,9444733530139065130392)
+DEBUG - Reading CRC from 28757 for 91 bytes = 35436
+DEBUG - CRCB reading at 28757
+DEBUG - 28848	0	CRC	35436
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 28850	0	Object Size	100
+DEBUG - 28852	0	Object Type	79.0
+DEBUG - 28853	2	Handle	Handle(15,2,512)
+DEBUG - Reading CRC from 28850 for 102 bytes = 63452
+DEBUG - CRCB reading at 28850
+DEBUG - 28952	0	CRC	63452
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 28954	0	Object Size	100
+DEBUG - 28956	0	Object Type	79.0
+DEBUG - 28957	2	Handle	Handle(15,2,512)
+DEBUG - Reading CRC from 28954 for 102 bytes = 22291
+DEBUG - CRCB reading at 28954
+DEBUG - 29056	0	CRC	22291
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 29058	0	Object Size	101
+DEBUG - 29060	0	Object Type	79.0
+DEBUG - 29061	2	Handle	Handle(15,2,512)
+DEBUG - Reading CRC from 29058 for 103 bytes = 60698
+DEBUG - CRCB reading at 29058
+DEBUG - 29161	0	CRC	60698
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 29163	0	Object Size	27
+DEBUG - 29165	0	Object Type	79.0
+DEBUG - 29166	2	Handle	Handle(10,2,0)
+DEBUG - Reading CRC from 29163 for 29 bytes = 48582
+DEBUG - CRCB reading at 29163
+DEBUG - 29192	0	CRC	48582
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 29194	0	Object Size	26
+DEBUG - 29196	0	Object Type	79.0
+DEBUG - 29197	2	Handle	Handle(10,2,0)
+DEBUG - Reading CRC from 29194 for 28 bytes = 3932
+DEBUG - CRCB reading at 29194
+DEBUG - 29222	0	CRC	3932
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 29224	0	Object Size	27
+DEBUG - 29226	0	Object Type	79.0
+DEBUG - 29227	2	Handle	Handle(10,2,0)
+DEBUG - Reading CRC from 29224 for 29 bytes = 48594
+DEBUG - CRCB reading at 29224
+DEBUG - 29253	0	CRC	48594
+DEBUG - CRC Match ------------------------------------------------------------------------------------------------------
+
+
+DEBUG - 29255	0	Object Size	0
+DEBUG - 29257	0	Object Type	33287.0
+DEBUG - 29259	2	Handle	Handle(3,12,1243172500037627912500033540)
+DEBUG - Reading CRC from 29255 for 2 bytes = 12432
+DEBUG - CRCB reading at 29255
+DEBUG - 29257	0	CRC	57345
+DEBUG - CRC Mismatch 12432 57345
+
+
+DEBUG - 29256	0	Object Size	385
+DEBUG - 29258	0	Object Type	256.0
+DEBUG - 29258	2	Handle	Handle(8,2,15364)
+DEBUG - Reading CRC from 29256 for 387 bytes = 39426
+DEBUG - CRCB reading at 29256
+DEBUG - 29643	0	CRC	258
+DEBUG - CRC Mismatch 39426 258
+
+
+DEBUG - 29257	0	Object Size	0
+DEBUG - 29259	0	Object Type	0.0
+DEBUG - 29259	2	Handle	Handle(3,12,1243172500037627912500033540)
+DEBUG - Reading CRC from 29257 for 2 bytes = 55377
+DEBUG - CRCB reading at 29257
+DEBUG - 29259	0	CRC	399
+DEBUG - CRC Mismatch 55377 399
+
+
+DEBUG - 29258	0	Object Size	0
+DEBUG - 29260	0	Object Type	1028.0
+DEBUG - 29262	2	Handle	Handle(5,4,71567436)
+DEBUG - Reading CRC from 29258 for 2 bytes = 42073
+DEBUG - CRCB reading at 29258
+DEBUG - 29260	0	CRC	257
+DEBUG - CRC Mismatch 42073 257
+
+
+DEBUG - 29259	0	Object Size	399
+DEBUG - 29261	0	Object Type	21508.0
+DEBUG - 29263	2	Handle	Handle(0,4,1141394436)
+DEBUG - 29260	0	Object Size	257
+DEBUG - 29262	0	Object Type	1108.0
+DEBUG - 29264	2	Handle	Handle(4,4,139199572)
+DEBUG - Reading CRC from 29260 for 259 bytes = 16056
+DEBUG - CRCB reading at 29260
+DEBUG - 29519	0	CRC	291
+DEBUG - CRC Mismatch 16056 291
+
+
+DEBUG - 29261	0	Object Size	5377
+DEBUG - 29263	0	Object Type	17412.0
+DEBUG - 29265	2	Handle	Handle(0,8,5477595423885768708)
+DEBUG - 29262	0	Object Size	277
+DEBUG - 29264	0	Object Type	2116.0
+DEBUG - 29266	2	Handle	Handle(4,12,1339509730920606431329386504)
+DEBUG - Reading CRC from 29262 for 279 bytes = 26725
+DEBUG - CRCB reading at 29262
+DEBUG - 29541	0	CRC	292
+DEBUG - CRC Mismatch 26725 292
+
+
+DEBUG - 29263	0	Object Size	4353
+DEBUG - 29265	0	Object Type	19464.0
+DEBUG - 29267	2	Handle	Handle(0,4,1409562628)
+DEBUG - 29264	0	Object Size	529
+DEBUG - 29266	0	Object Type	1100.0
+DEBUG - 29268	2	Handle	Handle(5,4,70779960)
+DEBUG - 29265	0	Object Size	4866
+DEBUG - 29267	0	Object Type	21508.0
+DEBUG - 29269	2	Handle	Handle(0,4,939800580)
+DEBUG - 29266	0	Object Size	275
+DEBUG - 29268	0	Object Type	1108.0
+DEBUG - 29270	2	Handle	Handle(3,8,303997699439198216)
+DEBUG - Reading CRC from 29266 for 277 bytes = 47327
+DEBUG - CRCB reading at 29266
+DEBUG - 29543	0	CRC	309
+DEBUG - CRC Mismatch 47327 309
+
+
+DEBUG - 29267	0	Object Size	5377
+DEBUG - 29269	0	Object Type	14340.0
+DEBUG - 29271	2	Handle	Handle(0,4,939805703)
+DEBUG - 29268	0	Object Size	277
+DEBUG - 29270	0	Object Type	1080.0
+DEBUG - 29272	2	Handle	Handle(3,8,309630840978578438)
+DEBUG - Reading CRC from 29268 for 279 bytes = 36370
+DEBUG - CRCB reading at 29268
+DEBUG - 29547	0	CRC	308
+DEBUG - CRC Mismatch 36370 308
+
+
+DEBUG - 29269	0	Object Size	3585
+DEBUG - 29271	0	Object Type	14340.0
+DEBUG - 29273	2	Handle	Handle(0,4,1275567104)
+DEBUG - 29270	0	Object Size	270
+DEBUG - 29272	0	Object Type	1080.0
+DEBUG - 29274	2	Handle	Handle(4,12,2354987655426091675112550407)
+DEBUG - Reading CRC from 29270 for 272 bytes = 37712
+DEBUG - CRCB reading at 29270
+DEBUG - 29542	0	CRC	13569
+DEBUG - CRC Mismatch 37712 13569
+
+
+DEBUG - 29271	0	Object Size	3585
+DEBUG - 29273	0	Object Type	19460.0
+DEBUG - 29275	2	Handle	Handle(0,7,43910133344278716)
+DEBUG - 29272	0	Object Size	270
+DEBUG - 29274	0	Object Type	1868.0
+DEBUG - 29276	2	Handle	Handle(9,12,10408217414387952488219836)
+DEBUG - Reading CRC from 29272 for 272 bytes = 49736
+DEBUG - CRCB reading at 29272
+DEBUG - 29544	0	CRC	13313
+DEBUG - CRC Mismatch 49736 13313
+
+
+DEBUG - 29273	0	Object Size	4865
+DEBUG - 29275	0	Object Type	39943.0
+DEBUG - 29277	2	Handle	Handle(0,0,0)
+DEBUG - 29274	0	Object Size	275
+DEBUG - 29276	0	Object Type	256.0
+DEBUG - 29276	2	Handle	Handle(9,12,10408217414387952488219836)
+DEBUG - Reading CRC from 29274 for 277 bytes = 55292
+DEBUG - CRCB reading at 29274
+DEBUG - 29551	0	CRC	308
+DEBUG - CRC Mismatch 55292 308
+
+
+DEBUG - 29275	0	Object Size	0
+DEBUG - 29277	0	Object Type	2048.0
+DEBUG - 29279	2	Handle	Handle(9,12,2041554709586636430777947456)
+DEBUG - Reading CRC from 29275 for 2 bytes = 6672
+DEBUG - CRCB reading at 29275
+DEBUG - 29277	0	CRC	512
+DEBUG - CRC Mismatch 6672 512
+
+
+DEBUG - 29276	0	Object Size	231
+DEBUG - 29278	0	Object Type	39944.0
+DEBUG - 29280	2	Handle	Handle(0,6,167933331484679)
+DEBUG - Reading CRC from 29276 for 233 bytes = 48114
+DEBUG - CRCB reading at 29276
+DEBUG - 29509	0	CRC	8705
+DEBUG - CRC Mismatch 48114 8705
+
+
+DEBUG - 29277	0	Object Size	512
+DEBUG - 29279	0	Object Type	1692.0
+DEBUG - 29281	2	Handle	Handle(9,8,13548676714208738310)
+DEBUG - 29278	0	Object Size	9986
+DEBUG - 29280	0	Object Type	38918.0
+DEBUG - 29282	2	Handle	Handle(11,12,2033035568741540126072795142)
+DEBUG - 29279	0	Object Size	295
+DEBUG - 29281	0	Object Type	0.0
+DEBUG - 29281	2	Handle	Handle(9,8,13548676714208738310)
+DEBUG - Reading CRC from 29279 for 297 bytes = 26454
+DEBUG - CRCB reading at 29279
+DEBUG - 29576	0	CRC	50314
+DEBUG - CRC Mismatch 26454 50314
+
+
+DEBUG - 29280	0	Object Size	0
+DEBUG - 29282	0	Object Type	1724.0
+DEBUG - 29284	2	Handle	Handle(9,1,176)
+DEBUG - Reading CRC from 29280 for 2 bytes = 10960
+DEBUG - CRCB reading at 29280
+DEBUG - 29282	0	CRC	303
+DEBUG - CRC Mismatch 10960 303
+
+
+DEBUG - 29281	0	Object Size	12198
+DEBUG - 29283	0	Object Type	37126.0
+DEBUG - 29285	2	Handle	Handle(11,0,0)
+DEBUG - 29282	0	Object Size	303
+DEBUG - 29284	0	Object Type	0.0
+DEBUG - 29284	2	Handle	Handle(9,1,176)
+DEBUG - Reading CRC from 29282 for 305 bytes = 3214
+DEBUG - CRCB reading at 29282
+DEBUG - 29587	0	CRC	266
+DEBUG - CRC Mismatch 3214 266
+
+
+DEBUG - 29283	0	Object Size	0
+DEBUG - 29285	0	Object Type	176.0
+DEBUG - 29286	2	Handle	Handle(0,7,1332636366668912)
+DEBUG - Reading CRC from 29283 for 2 bytes = 60241
+DEBUG - CRCB reading at 29283
+DEBUG - 29285	0	CRC	364
+DEBUG - CRC Mismatch 60241 364
+
+
+DEBUG - 29284	0	Object Size	27812
+DEBUG - 29286	0	Object Type	1031.0
+DEBUG - 29288	2	Handle	Handle(11,12,2037342319364849968314390534)
+DEBUG - 29285	0	Object Size	364
+DEBUG - 29287	0	Object Type	256.0
+DEBUG - 29287	2	Handle	Handle(0,4,3154548032)
+DEBUG - 29286	0	Object Size	0
+DEBUG - 29288	0	Object Type	1724.0
+DEBUG - 29290	2	Handle	Handle(9,5,274952357540)
+DEBUG - Reading CRC from 29286 for 2 bytes = 49297
+DEBUG - CRCB reading at 29286
+DEBUG - 29288	0	CRC	303
+DEBUG - CRC Mismatch 49297 303
+
+
+DEBUG - 29287	0	Object Size	12225
+DEBUG - 29289	0	Object Type	38150.0
+DEBUG - 29291	2	Handle	Handle(4,0,0)
+DEBUG - 29288	0	Object Size	303
+DEBUG - 29290	0	Object Type	0.0
+DEBUG - 29290	2	Handle	Handle(9,5,274952357540)
+DEBUG - Reading CRC from 29288 for 305 bytes = 63709
+DEBUG - CRCB reading at 29288
+DEBUG - 29593	0	CRC	265
+DEBUG - CRC Mismatch 63709 265
+
+
+DEBUG - 29289	0	Object Size	0
+DEBUG - 29291	0	Object Type	64.0
+DEBUG - 29292	2	Handle	Handle(0,4,1879483428)
+DEBUG - Reading CRC from 29289 for 2 bytes = 11152
+DEBUG - CRCB reading at 29289
+DEBUG - 29291	0	CRC	336
+DEBUG - CRC Mismatch 11152 336
+
+
+DEBUG - 29290	0	Object Size	20645
+DEBUG - 29292	0	Object Type	28676.0
+DEBUG - 29294	2	Handle	Handle(0,6,180474694408198)
+DEBUG - 29291	0	Object Size	336
+DEBUG - 29293	0	Object Type	1648.0
+DEBUG - 29295	2	Handle	Handle(10,4,604638488)
+DEBUG - Reading CRC from 29291 for 338 bytes = 61622
+DEBUG - CRCB reading at 29291
+DEBUG - 29629	0	CRC	257
+DEBUG - CRC Mismatch 61622 257
+
+
+DEBUG - 29292	0	Object Size	7169
+DEBUG - 29294	0	Object Type	41990.0
+DEBUG - 29296	2	Handle	Handle(2,4,168630278)
+DEBUG - 29293	0	Object Size	284
+DEBUG - 29295	0	Object Type	0.0
+DEBUG - 29295	2	Handle	Handle(10,4,604638488)
+DEBUG - Reading CRC from 29293 for 286 bytes = 55633
+DEBUG - CRCB reading at 29293
+DEBUG - 29579	0	CRC	33025
+DEBUG - CRC Mismatch 55633 33025
+
+
+DEBUG - 29294	0	Object Size	0
+DEBUG - 29296	0	Object Type	2596.0
+DEBUG - 29298	2	Handle	Handle(0,13,1903468248003222264849405236412)
+DEBUG - Reading CRC from 29294 for 2 bytes = 11920
+DEBUG - CRCB reading at 29294
+DEBUG - 29296	0	CRC	521
+DEBUG - CRC Mismatch 11920 521
+
+
+DEBUG - 29295	0	Object Size	2473
+DEBUG - 29297	0	Object Type	3338.0
+DEBUG - 29299	2	Handle	Handle(1,8,463879588264544169)
+DEBUG - 29296	0	Object Size	521
+DEBUG - 29298	0	Object Type	0.0
+DEBUG - 29298	2	Handle	Handle(0,13,1903468248003222264849405236412)
+DEBUG - 29297	0	Object Size	0
+DEBUG - 29299	0	Object Type	24.0
+DEBUG - 29300	2	Handle	Handle(0,6,123179781394439)
+DEBUG - Reading CRC from 29297 for 2 bytes = 273
+DEBUG - CRCB reading at 29297
+DEBUG - 29299	0	CRC	326
+DEBUG - CRC Mismatch 273 326
+
+
+DEBUG - 29298	0	Object Size	18051
+DEBUG - 29300	0	Object Type	28678.0
+DEBUG - 29302	2	Handle	Handle(0,8,512583557684659924)
+DEBUG - 29299	0	Object Size	326
+DEBUG - 29301	0	Object Type	0.0
+DEBUG - 29301	2	Handle	Handle(7,0,0)
+DEBUG - Reading CRC from 29299 for 328 bytes = 15080
+DEBUG - CRCB reading at 29299
+DEBUG - 29627	0	CRC	53249
+DEBUG - CRC Mismatch 15080 53249
+
+
+DEBUG - 29300	0	Object Size	0
+DEBUG - 29302	0	Object Type	1800.0
+DEBUG - 29304	2	Handle	Handle(1,13,1270021908349413095227745842352)
+DEBUG - Reading CRC from 29300 for 2 bytes = 14672
+DEBUG - CRCB reading at 29300
+DEBUG - 29302	0	CRC	258
+DEBUG - CRC Mismatch 14672 258
+
+
+DEBUG - 29301	0	Object Size	668
+DEBUG - 29303	0	Object Type	7431.0
+DEBUG - 29305	2	Handle	Handle(1,0,0)
+DEBUG - 29302	0	Object Size	258
+DEBUG - 29304	0	Object Type	256.0
+DEBUG - 29304	2	Handle	Handle(1,13,1270021908349413095227745842352)
+DEBUG - Reading CRC from 29302 for 260 bytes = 29161
+DEBUG - CRCB reading at 29302
+DEBUG - 29562	0	CRC	13057
+DEBUG - CRC Mismatch 29161 13057
+
+
+DEBUG - 29303	0	Object Size	0
+DEBUG - 29305	0	Object Type	16.0
+DEBUG - 29306	2	Handle	Handle(0,7,47710037891352141)
+DEBUG - Reading CRC from 29303 for 2 bytes = 49681
+DEBUG - CRCB reading at 29303
+DEBUG - 29305	0	CRC	324
+DEBUG - CRC Mismatch 49681 324
+
+
+DEBUG - 29304	0	Object Size	17607
+DEBUG - 29306	0	Object Type	43271.0
+DEBUG - 29308	2	Handle	Handle(8,0,0)
+DEBUG - 29305	0	Object Size	324
+DEBUG - 29307	0	Object Type	256.0
+DEBUG - 29307	2	Handle	Handle(10,9,2361675466429372827444)
+DEBUG - Reading CRC from 29305 for 326 bytes = 42212
+DEBUG - CRCB reading at 29305
+DEBUG - 29631	0	CRC	29347
+DEBUG - CRC Mismatch 42212 29347
+
+
+DEBUG - 29306	0	Object Size	0
+DEBUG - 29308	0	Object Type	128.0
+DEBUG - 29309	2	Handle	Handle(0,6,233904024697863)
+DEBUG - Reading CRC from 29306 for 2 bytes = 57297
+DEBUG - CRCB reading at 29306
+DEBUG - 29308	0	CRC	352
+DEBUG - CRC Mismatch 57297 352
+
+
+DEBUG - 29307	0	Object Size	24810
+DEBUG - 29309	0	Object Type	54278.0
+DEBUG - 29311	2	Handle	Handle(11,12,1950885284860943960749075548)
+DEBUG - 29308	0	Object Size	352
+DEBUG - 29310	0	Object Type	0.0
+DEBUG - 29310	2	Handle	Handle(13,4,3154529724)
+DEBUG - 29309	0	Object Size	0
+DEBUG - 29311	0	Object Type	1724.0
+DEBUG - 29313	2	Handle	Handle(4,13,14897124643442399555845945214300)
+DEBUG - Reading CRC from 29309 for 2 bytes = 59281
+DEBUG - CRCB reading at 29309
+DEBUG - 29311	0	CRC	303
+DEBUG - CRC Mismatch 59281 303
+
+
+DEBUG - 29310	0	Object Size	12213
+DEBUG - 29312	0	Object Type	19718.0
+DEBUG - 29314	2	Handle	Handle(11,12,2230090760704088259682551132)
+DEBUG - 29311	0	Object Size	303
+DEBUG - 29313	0	Object Type	0.0
+DEBUG - 29313	2	Handle	Handle(4,13,14897124643442399555845945214300)
+DEBUG - Reading CRC from 29311 for 305 bytes = 17394
+DEBUG - CRCB reading at 29311
+DEBUG - 29616	0	CRC	18172
+DEBUG - CRC Mismatch 17394 18172
+
+
+DEBUG - 29312	0	Object Size	0
+DEBUG - 29314	0	Object Type	188.0
+DEBUG - 29315	2	Handle	Handle(0,7,14830308955785068)
+DEBUG - Reading CRC from 29312 for 2 bytes = 15632
+DEBUG - CRCB reading at 29312
+DEBUG - 29314	0	CRC	367
+DEBUG - CRC Mismatch 15632 367
+
+
+DEBUG - 29313	0	Object Size	28563
+DEBUG - 29315	0	Object Type	13319.0
+DEBUG - 29317	2	Handle	Handle(11,0,0)
+DEBUG - 29314	0	Object Size	367
+DEBUG - 29316	0	Object Type	256.0
+DEBUG - 29316	2	Handle	Handle(3,4,2954256696)
+DEBUG - 29315	0	Object Size	0
+DEBUG - 29317	0	Object Type	5808.0
+DEBUG - 29319	2	Handle	Handle(6,1,56)
+DEBUG - Reading CRC from 29315 for 2 bytes = 50577
+DEBUG - CRCB reading at 29315
+DEBUG - 29317	0	CRC	1324
+DEBUG - CRC Mismatch 50577 1324
+
+
+DEBUG - 29316	0	Object Size	11469
+DEBUG - 29318	0	Object Type	24854.0
+DEBUG - 29320	2	Handle	Handle(3,8,534903639900948444)
+DEBUG - 29317	0	Object Size	1324
+DEBUG - 29319	0	Object Type	0.0
+DEBUG - 29319	2	Handle	Handle(6,1,56)
+DEBUG - 29318	0	Object Size	0
+DEBUG - 29320	0	Object Type	56.0
+DEBUG - 29321	2	Handle	Handle(0,7,30500481635452892)
+DEBUG - Reading CRC from 29318 for 2 bytes = 14931
+DEBUG - CRCB reading at 29318
+DEBUG - 29320	0	CRC	334
+DEBUG - CRC Mismatch 14931 334
+
+
+DEBUG - 29319	0	Object Size	20120
+DEBUG - 29321	0	Object Type	27655.0
+DEBUG - 29323	2	Handle	Handle(5,12,2095503048120006647159850284)
+DEBUG - 29320	0	Object Size	334
+DEBUG - 29322	0	Object Type	256.0
+DEBUG - 29322	2	Handle	Handle(6,12,28480806462345465098645325317)
+DEBUG - 29321	0	Object Size	0
+DEBUG - 29323	0	Object Type	1628.0
+DEBUG - 29325	2	Handle	Handle(12,5,395268878359)
+DEBUG - Reading CRC from 29321 for 2 bytes = 2832
+DEBUG - CRCB reading at 29321
+DEBUG - 29323	0	CRC	279
+DEBUG - CRC Mismatch 2832 279
+
+
+DEBUG - 29322	0	Object Size	6107
+DEBUG - 29324	0	Object Type	50438.0
+DEBUG - 29326	2	Handle	Handle(5,12,2432888088277077402220670060)
+DEBUG - 29323	0	Object Size	279
+DEBUG - 29325	0	Object Type	0.0
+DEBUG - 29325	2	Handle	Handle(12,5,395268878359)
+DEBUG - Reading CRC from 29323 for 281 bytes = 50224
+DEBUG - CRCB reading at 29323
+DEBUG - 29604	0	CRC	2460
+DEBUG - CRC Mismatch 50224 2460
+
+
+DEBUG - 29324	0	Object Size	0
+DEBUG - 29326	0	Object Type	92.0
+DEBUG - 29327	2	Handle	Handle(0,7,62047741265888773)
+DEBUG - Reading CRC from 29324 for 2 bytes = 9360
+DEBUG - CRCB reading at 29324
+DEBUG - 29326	0	CRC	343
+DEBUG - CRC Mismatch 9360 343
+
+
+DEBUG - 29325	0	Object Size	22449
+DEBUG - 29327	0	Object Type	56327.0
+DEBUG - 29329	2	Handle	Handle(7,0,0)
+DEBUG - 29326	0	Object Size	343
+DEBUG - 29328	0	Object Type	256.0
+DEBUG - 29328	2	Handle	Handle(13,12,34690774626697393723404978097)
+DEBUG - 29327	0	Object Size	0
+DEBUG - 29329	0	Object Type	6000.0
+DEBUG - 29331	2	Handle	Handle(8,9,1268647456413816981425)
+DEBUG - Reading CRC from 29327 for 2 bytes = 54801
+DEBUG - CRCB reading at 29327
+DEBUG - 29329	0	CRC	1308
+DEBUG - CRC Mismatch 54801 1308
+
+
+DEBUG - 29328	0	Object Size	7415
+DEBUG - 29330	0	Object Type	35095.0
+DEBUG - 29332	2	Handle	Handle(4,4,3322227718)
+DEBUG - 29329	0	Object Size	1308
+DEBUG - 29331	0	Object Type	256.0
+DEBUG - 29331	2	Handle	Handle(8,9,1268647456413816981425)
+DEBUG - 29330	0	Object Size	0
+DEBUG - 29332	0	Object Type	68.0
+DEBUG - 29333	2	Handle	Handle(12,6,5686648663047)
+DEBUG - Reading CRC from 29330 for 2 bytes = 55762
+DEBUG - CRCB reading at 29330
+DEBUG - 29332	0	CRC	12625
+DEBUG - CRC Mismatch 55762 12625
+
+
+DEBUG - 29331	0	Object Size	20962
+DEBUG - 29333	0	Object Type	1478.0
+DEBUG - 29335	2	Handle	Handle(2,12,2065355457366723876168048900)
+DEBUG - 29332	0	Object Size	12625
+DEBUG - 29334	0	Object Type	0.0
+DEBUG - 29334	2	Handle	Handle(0,5,189090524167)
+DEBUG - 29333	0	Object Size	0
+DEBUG - 29335	0	Object Type	44.0
+DEBUG - 29336	2	Handle	Handle(0,6,189579985488902)
+DEBUG - Reading CRC from 29333 for 2 bytes = 12420
+DEBUG - CRCB reading at 29333
+DEBUG - 29335	0	CRC	331
+DEBUG - CRC Mismatch 12420 331
+
+
+DEBUG - 29334	0	Object Size	19329
+DEBUG - 29336	0	Object Type	44038.0
+DEBUG - 29338	2	Handle	Handle(6,12,2380431724050266600751109236)
+DEBUG - 29335	0	Object Size	331
+DEBUG - 29337	0	Object Type	0.0
+DEBUG - 29337	2	Handle	Handle(10,12,33433679622127338776185538068)
+DEBUG - 29336	0	Object Size	0
+DEBUG - 29338	0	Object Type	1900.0
+DEBUG - 29340	2	Handle	Handle(11,1,12)
+DEBUG - Reading CRC from 29336 for 2 bytes = 61201
+DEBUG - CRCB reading at 29336
+DEBUG - 29338	0	CRC	283
+DEBUG - CRC Mismatch 61201 283
+
+
+DEBUG - 29337	0	Object Size	7083
+DEBUG - 29339	0	Object Type	45319.0
+DEBUG - 29341	2	Handle	Handle(0,12,1960103407381583861582806292)
+DEBUG - 29338	0	Object Size	283
+DEBUG - 29340	0	Object Type	256.0
+DEBUG - 29340	2	Handle	Handle(11,1,12)
+DEBUG - Reading CRC from 29338 for 285 bytes = 55969
+DEBUG - CRCB reading at 29338
+DEBUG - 29623	0	CRC	331
+DEBUG - CRC Mismatch 55969 331
+
+
+DEBUG - 29339	0	Object Size	0
+DEBUG - 29341	0	Object Type	12.0
+DEBUG - 29342	2	Handle	Handle(0,6,93853803676678)
+DEBUG - Reading CRC from 29339 for 2 bytes = 56657
+DEBUG - CRCB reading at 29339
+DEBUG - 29341	0	CRC	323
+DEBUG - CRC Mismatch 56657 323
+
+
+DEBUG - 29340	0	Object Size	17388
+DEBUG - 29342	0	Object Type	21766.0
+DEBUG - 29344	2	Handle	Handle(5,12,3289506156791611742669451612)
+DEBUG - 29341	0	Object Size	323
+DEBUG - 29343	0	Object Type	0.0
+DEBUG - 29343	2	Handle	Handle(5,5,395315315718)
+DEBUG - 29342	0	Object Size	0
+DEBUG - 29344	0	Object Type	92.0
+DEBUG - 29345	2	Handle	Handle(0,10,760375228820941622740785)
+DEBUG - Reading CRC from 29342 for 2 bytes = 16272
+DEBUG - CRCB reading at 29342
+DEBUG - 29344	0	CRC	599
+DEBUG - CRC Mismatch 16272 599
+
+
+DEBUG - 29343	0	Object Size	22421
+DEBUG - 29345	0	Object Type	41226.0
+DEBUG - 29347	2	Handle	Handle(0,4,102003718)
+DEBUG - 29344	0	Object Size	599
+DEBUG - 29346	0	Object Type	0.0
+DEBUG - 29346	2	Handle	Handle(10,1,4)
+DEBUG - 29345	0	Object Size	0
+DEBUG - 29347	0	Object Type	4.0
+DEBUG - 29348	2	Handle	Handle(0,6,22488553427975)
+DEBUG - Reading CRC from 29345 for 2 bytes = 7761
+DEBUG - CRCB reading at 29345
+DEBUG - 29347	0	CRC	321
+DEBUG - CRC Mismatch 7761 321
+
+
+DEBUG - 29346	0	Object Size	16808
+DEBUG - 29348	0	Object Type	5126.0
+DEBUG - 29350	2	Handle	Handle(7,4,104666119)
+DEBUG - 29347	0	Object Size	321
+DEBUG - 29349	0	Object Type	0.0
+DEBUG - 29349	2	Handle	Handle(1,4,1946565908)
+DEBUG - 29348	0	Object Size	0
+DEBUG - 29350	0	Object Type	1652.0
+DEBUG - 29352	2	Handle	Handle(3,13,1586789317660352617198413436959)
+DEBUG - Reading CRC from 29348 for 2 bytes = 62353
+DEBUG - CRCB reading at 29348
+DEBUG - 29350	0	CRC	285
+DEBUG - CRC Mismatch 62353 285
+
+
+DEBUG - 29349	0	Object Size	7557
+DEBUG - 29351	0	Object Type	15622.0
+DEBUG - 29353	2	Handle	Handle(1,4,120675354)
+DEBUG - 29350	0	Object Size	285
+DEBUG - 29352	0	Object Type	0.0
+DEBUG - 29352	2	Handle	Handle(3,13,1586789317660352617198413436959)
+DEBUG - Reading CRC from 29350 for 287 bytes = 31812
+DEBUG - CRCB reading at 29350
+DEBUG - 29637	0	CRC	51201
+DEBUG - CRC Mismatch 31812 51201
+
+
+DEBUG - 29351	0	Object Size	0
+DEBUG - 29353	0	Object Type	20.0
+DEBUG - 29354	2	Handle	Handle(0,7,13893541487969888)
+DEBUG - Reading CRC from 29351 for 2 bytes = 62481
+DEBUG - CRCB reading at 29351
+DEBUG - 29353	0	CRC	325
+DEBUG - CRC Mismatch 62481 325
+
+
+DEBUG - 29352	0	Object Size	17807
+DEBUG - 29354	0	Object Type	12551.0
+DEBUG - 29356	2	Handle	Handle(5,12,8110758999257410387896189959)
+DEBUG - 29353	0	Object Size	325
+DEBUG - 29355	0	Object Type	256.0
+DEBUG - 29355	2	Handle	Handle(3,1,92)
+DEBUG - 29354	0	Object Size	0
+DEBUG - 29356	0	Object Type	92.0
+DEBUG - 29357	2	Handle	Handle(1,10,250581030868900785358916)
+DEBUG - Reading CRC from 29354 for 2 bytes = 1360
+DEBUG - CRCB reading at 29354
+DEBUG - 29356	0	CRC	1623
+DEBUG - CRC Mismatch 1360 1623
+
+
+DEBUG - 29355	0	Object Size	22476
+DEBUG - 29357	0	Object Type	13594.0
+DEBUG - 29359	2	Handle	Handle(1,0,0)
+DEBUG - 29356	0	Object Size	1623
+DEBUG - 29358	0	Object Type	0.0
+DEBUG - 29358	2	Handle	Handle(3,5,68826432528)
+DEBUG - 29357	0	Object Size	0
+DEBUG - 29359	0	Object Type	16.0
+DEBUG - 29360	2	Handle	Handle(0,6,105570570346248)
+DEBUG - Reading CRC from 29357 for 2 bytes = 1426
+DEBUG - CRCB reading at 29357
+DEBUG - 29359	0	CRC	324
+DEBUG - CRC Mismatch 1426 324
+
+
+DEBUG - 29358	0	Object Size	17549
+DEBUG - 29360	0	Object Type	24582.0
+DEBUG - 29362	2	Handle	Handle(0,4,274210568)
+DEBUG - 29359	0	Object Size	324
+DEBUG - 29361	0	Object Type	0.0
+DEBUG - 29361	2	Handle	Handle(6,0,0)
+DEBUG - 29360	0	Object Size	0
+DEBUG - 29362	0	Object Type	4100.0
+DEBUG - 29364	2	Handle	Handle(5,8,2236112013874974549)
+DEBUG - Reading CRC from 29360 for 2 bytes = 64081
+DEBUG - CRCB reading at 29360
+DEBUG - 29362	0	CRC	1025
+DEBUG - CRC Mismatch 64081 1025
+
+
+DEBUG - 29361	0	Object Size	408
+DEBUG - 29363	0	Object Type	22544.0
+DEBUG - 29365	2	Handle	Handle(1,15,42918170766525366712927504981824559)
+DEBUG - 29362	0	Object Size	1025
+DEBUG - 29364	0	Object Type	8024.0
+DEBUG - 29366	2	Handle	Handle(0,8,4902019761654037511)
+DEBUG - 29363	0	Object Size	5636
+DEBUG - 29365	0	Object Type	2079.0
+DEBUG - 29367	2	Handle	Handle(4,4,125370447)
+DEBUG - 29364	0	Object Size	1814
+DEBUG - 29366	0	Object Type	256.0
+DEBUG - 29366	2	Handle	Handle(0,8,4902019761654037511)
+DEBUG - 29365	0	Object Size	0
+DEBUG - 29367	0	Object Type	1860.0
+DEBUG - 29369	2	Handle	Handle(7,9,5716611675089275428)
+DEBUG - Reading CRC from 29365 for 2 bytes = 25042
+DEBUG - CRCB reading at 29365
+DEBUG - 29367	0	CRC	273
+DEBUG - CRC Mismatch 25042 273
+
+
+DEBUG - 29366	0	Object Size	4546
+DEBUG - 29368	0	Object Type	30983.0
+DEBUG - 29370	2	Handle	Handle(0,0,0)
+DEBUG - 29367	0	Object Size	273
+DEBUG - 29369	0	Object Type	256.0
+DEBUG - 29369	2	Handle	Handle(7,9,5716611675089275428)
+DEBUG - Reading CRC from 29367 for 275 bytes = 15943
+DEBUG - CRCB reading at 29367
+DEBUG - 29642	0	CRC	512
+DEBUG - CRC Mismatch 15943 512
+
+
+DEBUG - 29368	0	Object Size	0
+DEBUG - 29370	0	Object Type	0.0
+DEBUG - 29371	2	Handle	Handle(4,15,443860872143570341481462828259629063)
+DEBUG - Reading CRC from 29368 for 2 bytes = 2256
+DEBUG - CRCB reading at 29368
+DEBUG - 29370	0	CRC	4928
+DEBUG - CRC Mismatch 2256 4928
+
+
+DEBUG - 29369	0	Object Size	16606
+DEBUG - 29371	0	Object Type	21839.0
+DEBUG - 29373	2	Handle	Handle(7,12,2423348660882514848363736152)
+DEBUG - 29370	0	Object Size	4928
+DEBUG - 29372	0	Object Type	256.0
+DEBUG - 29372	2	Handle	Handle(5,5,532707314698)
+DEBUG - 29371	0	Object Size	0
+DEBUG - 29373	0	Object Type	124.0
+DEBUG - 29374	2	Handle	Handle(0,7,59826670245523417)
+DEBUG - Reading CRC from 29371 for 2 bytes = 28573
+DEBUG - CRCB reading at 29371
+DEBUG - 29373	0	CRC	351
+DEBUG - CRC Mismatch 28573 351
+
+
+DEBUG - 29372	0	Object Size	24533
+DEBUG - 29374	0	Object Type	54279.0
+DEBUG - 29376	2	Handle	Handle(8,12,3138466757697352260259379456)
+DEBUG - 29373	0	Object Size	351
+DEBUG - 29375	0	Object Type	256.0
+DEBUG - 29375	2	Handle	Handle(13,4,2349474836)
+DEBUG - 29374	0	Object Size	0
+DEBUG - 29376	0	Object Type	2700.0
+DEBUG - 29378	2	Handle	Handle(2,4,338680116)
+DEBUG - Reading CRC from 29374 for 2 bytes = 6032
+DEBUG - CRCB reading at 29374
+DEBUG - 29376	0	CRC	547
+DEBUG - CRC Mismatch 6032 547
+
+
+DEBUG - 29375	0	Object Size	9205
+DEBUG - 29377	0	Object Type	9226.0
+DEBUG - 29379	2	Handle	Handle(1,4,802763786)
+DEBUG - 29376	0	Object Size	547
+DEBUG - 29378	0	Object Type	0.0
+DEBUG - 29378	2	Handle	Handle(2,4,338680116)
+DEBUG - 29377	0	Object Size	0
+DEBUG - 29379	0	Object Type	12052.0
+DEBUG - 29381	2	Handle	Handle(13,9,959981763859878774512)
+DEBUG - Reading CRC from 29377 for 2 bytes = 1681
+DEBUG - CRCB reading at 29377
+DEBUG - 29379	0	CRC	2821
+DEBUG - CRC Mismatch 1681 2821
+
+
+DEBUG - 29378	0	Object Size	1417
+DEBUG - 29380	0	Object Type	55599.0
+DEBUG - 29382	2	Handle	Handle(3,4,174872583)
+DEBUG - 29379	0	Object Size	2821
+DEBUG - 29381	0	Object Type	256.0
+DEBUG - 29381	2	Handle	Handle(13,9,959981763859878774512)
+DEBUG - 29380	0	Object Size	0
+DEBUG - 29382	0	Object Type	52.0
+DEBUG - 29383	2	Handle	Handle(0,10,511639432090068367705981)
+DEBUG - Reading CRC from 29380 for 2 bytes = 46806
+DEBUG - CRCB reading at 29380
+DEBUG - 29382	0	CRC	589
+DEBUG - CRC Mismatch 46806 589
+
+
+DEBUG - 29381	0	Object Size	19958
+DEBUG - 29383	0	Object Type	27658.0
+DEBUG - 29385	2	Handle	Handle(5,8,538461660244084605)
+DEBUG - 29382	0	Object Size	589
+DEBUG - 29384	0	Object Type	0.0
+DEBUG - 29384	2	Handle	Handle(6,12,27243714751859999667933939708)
+DEBUG - 29383	0	Object Size	0
+DEBUG - 29385	0	Object Type	1880.0
+DEBUG - 29387	2	Handle	Handle(7,9,499903988859406332)
+DEBUG - Reading CRC from 29383 for 2 bytes = 2833
+DEBUG - CRCB reading at 29383
+DEBUG - 29385	0	CRC	278
+DEBUG - CRC Mismatch 2833 278
+
+
+DEBUG - 29384	0	Object Size	5787
+DEBUG - 29386	0	Object Type	30983.0
+DEBUG - 29388	2	Handle	Handle(0,0,0)
+DEBUG - 29385	0	Object Size	278
+DEBUG - 29387	0	Object Type	256.0
+DEBUG - 29387	2	Handle	Handle(7,9,499903988859406332)
+DEBUG - 29386	0	Object Size	0
+DEBUG - 29388	0	Object Type	0.0
+DEBUG - 29389	2	Handle	Handle(0,6,263900096218119)
+DEBUG - Reading CRC from 29386 for 2 bytes = 2256
+DEBUG - CRCB reading at 29386
+DEBUG - 29388	0	CRC	320
+DEBUG - CRC Mismatch 2256 320
+
+
+DEBUG - 29387	0	Object Size	16606
+DEBUG - 29389	0	Object Type	61446.0
+DEBUG - 29391	2	Handle	Handle(0,4,125682695)
+DEBUG - 29388	0	Object Size	320
+DEBUG - 29390	0	Object Type	0.0
+DEBUG - 29390	2	Handle	Handle(15,0,0)
+DEBUG - 29389	0	Object Size	0
+DEBUG - 29391	0	Object Type	1796.0
+DEBUG - 29393	2	Handle	Handle(7,13,15531191010647978030604506081280)
+DEBUG - Reading CRC from 29389 for 2 bytes = 57681
+DEBUG - CRCB reading at 29389
+DEBUG - 29391	0	CRC	257
+DEBUG - CRC Mismatch 57681 257
+
+
+DEBUG - 29390	0	Object Size	444
+DEBUG - 29392	0	Object Type	32007.0
+DEBUG - 29394	2	Handle	Handle(12,4,133961735)
+DEBUG - 29391	0	Object Size	257
+DEBUG - 29393	0	Object Type	256.0
+DEBUG - 29393	2	Handle	Handle(7,13,15531191010647978030604506081280)
+DEBUG - 29392	0	Object Size	0
+DEBUG - 29394	0	Object Type	196.0
+DEBUG - 29395	2	Handle	Handle(0,7,70958115025061832)
+DEBUG - Reading CRC from 29392 for 2 bytes = 51217
+DEBUG - CRCB reading at 29392
+DEBUG - 29394	0	CRC	369
+DEBUG - CRC Mismatch 51217 369
+
+
+DEBUG - 29393	0	Object Size	29151
+DEBUG - 29395	0	Object Type	64519.0
+DEBUG - 29397	2	Handle	Handle(1,8,547187388145731496)
+DEBUG - 29394	0	Object Size	369
+DEBUG - 29396	0	Object Type	256.0
+DEBUG - 29396	2	Handle	Handle(15,12,7436820516715678426181142357)
+DEBUG - 29395	0	Object Size	0
+DEBUG - 29397	0	Object Type	1816.0
+DEBUG - 29399	2	Handle	Handle(9,8,2190227290980359)
+DEBUG - Reading CRC from 29395 for 2 bytes = 4112
+DEBUG - CRCB reading at 29395
+DEBUG - 29397	0	CRC	262
+DEBUG - CRC Mismatch 4112 262
+
+
+DEBUG - 29396	0	Object Size	1791
+DEBUG - 29398	0	Object Type	38919.0
+DEBUG - 29400	2	Handle	Handle(0,0,0)
+DEBUG - 29397	0	Object Size	262
+DEBUG - 29399	0	Object Type	256.0
+DEBUG - 29399	2	Handle	Handle(9,8,2190227290980359)
+DEBUG - 29398	0	Object Size	0
+DEBUG - 29400	0	Object Type	1792.0
+DEBUG - 29402	2	Handle	Handle(12,8,2155042913459207)
+DEBUG - Reading CRC from 29398 for 2 bytes = 56017
+DEBUG - CRCB reading at 29398
+DEBUG - 29400	0	CRC	256
+DEBUG - CRC Mismatch 56017 256
+
+
+DEBUG - 29399	0	Object Size	230
+DEBUG - 29401	0	Object Type	51207.0
+DEBUG - 29403	2	Handle	Handle(0,0,0)
+DEBUG - Reading CRC from 29399 for 232 bytes = 6383
+DEBUG - CRCB reading at 29399
+DEBUG - 29631	0	CRC	29347
+DEBUG - CRC Mismatch 6383 29347
+
+
+DEBUG - 29400	0	Object Size	256
+DEBUG - 29402	0	Object Type	256.0
+DEBUG - 29402	2	Handle	Handle(12,8,2155042913459207)
+DEBUG - 29401	0	Object Size	0
+DEBUG - 29403	0	Object Type	1792.0
+DEBUG - 29405	2	Handle	Handle(10,8,2063903712381959)
+DEBUG - Reading CRC from 29401 for 2 bytes = 54737
+DEBUG - CRCB reading at 29401
+DEBUG - 29403	0	CRC	256
+DEBUG - CRC Mismatch 54737 256
+
+
+DEBUG - 29402	0	Object Size	242
+DEBUG - 29404	0	Object Type	43015.0
+DEBUG - 29406	2	Handle	Handle(0,0,0)
+DEBUG - 29403	0	Object Size	256
+DEBUG - 29405	0	Object Type	256.0
+DEBUG - 29405	2	Handle	Handle(10,8,2063903712381959)
+DEBUG - 29404	0	Object Size	0
+DEBUG - 29406	0	Object Type	1792.0
+DEBUG - 29408	2	Handle	Handle(5,5,120387046407)
+DEBUG - Reading CRC from 29404 for 2 bytes = 57297
+DEBUG - CRCB reading at 29404
+DEBUG - 29406	0	CRC	256
+DEBUG - CRC Mismatch 57297 256
+
+
+DEBUG - 29405	0	Object Size	234
+DEBUG - 29407	0	Object Type	21767.0
+DEBUG - 29409	2	Handle	Handle(1,12,2360484470411764091949829512)
+DEBUG - Reading CRC from 29405 for 236 bytes = 19007
+DEBUG - CRCB reading at 29405
+DEBUG - 29641	0	CRC	234
+DEBUG - CRC Mismatch 19007 234
+
+
+DEBUG - 29406	0	Object Size	256
+DEBUG - 29408	0	Object Type	256.0
+DEBUG - 29408	2	Handle	Handle(5,5,120387046407)
+DEBUG - 29407	0	Object Size	0
+DEBUG - 29409	0	Object Type	28.0
+DEBUG - 29410	2	Handle	Handle(0,7,45189960315439061)
+DEBUG - Reading CRC from 29407 for 2 bytes = 53137
+DEBUG - CRCB reading at 29407
+DEBUG - 29409	0	CRC	327
+DEBUG - CRC Mismatch 53137 327
+
+
+DEBUG - 29408	0	Object Size	18389
+DEBUG - 29410	0	Object Type	40967.0
+DEBUG - 29412	2	Handle	Handle(8,12,2335663717436878020223162392)
+DEBUG - 29409	0	Object Size	327
+DEBUG - 29411	0	Object Type	256.0
+DEBUG - 29411	2	Handle	Handle(10,0,0)
+DEBUG - 29410	0	Object Size	0
+DEBUG - 29412	0	Object Type	1932.0
+DEBUG - 29414	2	Handle	Handle(8,12,1247408384537702618258474497)
+DEBUG - Reading CRC from 29410 for 2 bytes = 7760
+DEBUG - CRCB reading at 29410
+DEBUG - 29412	0	CRC	291
+DEBUG - CRC Mismatch 7760 291
+
+
+DEBUG - 29411	0	Object Size	9192
+DEBUG - 29413	0	Object Type	35847.0
+DEBUG - 29415	2	Handle	Handle(0,4,131399686)
+DEBUG - 29412	0	Object Size	291
+DEBUG - 29414	0	Object Type	256.0
+DEBUG - 29414	2	Handle	Handle(8,12,1247408384537702618258474497)
+DEBUG - 29413	0	Object Size	0
+DEBUG - 29415	0	Object Type	1796.0
+DEBUG - 29417	2	Handle	Handle(13,5,105744391)
+DEBUG - Reading CRC from 29413 for 2 bytes = 55569
+DEBUG - CRCB reading at 29413
+DEBUG - 29415	0	CRC	257
+DEBUG - CRC Mismatch 55569 257
+
+
+DEBUG - 29414	0	Object Size	483
+DEBUG - 29416	0	Object Type	54535.0
+DEBUG - 29418	2	Handle	Handle(0,0,0)
+DEBUG - 29415	0	Object Size	257
+DEBUG - 29417	0	Object Type	256.0
+DEBUG - 29417	2	Handle	Handle(13,5,105744391)
+DEBUG - 29416	0	Object Size	0
+DEBUG - 29418	0	Object Type	0.0
+DEBUG - 29419	2	Handle	Handle(0,6,85246642493446)
+DEBUG - Reading CRC from 29416 for 2 bytes = 6032
+DEBUG - CRCB reading at 29416
+DEBUG - 29418	0	CRC	320
+DEBUG - CRC Mismatch 6032 320
+
+
+DEBUG - 29417	0	Object Size	16629
+DEBUG - 29419	0	Object Type	19718.0
+DEBUG - 29421	2	Handle	Handle(8,8,565228167302219593)
+DEBUG - 29418	0	Object Size	320
+DEBUG - 29420	0	Object Type	0.0
+DEBUG - 29420	2	Handle	Handle(4,13,10777457738433290962422257350692)
+DEBUG - 29419	0	Object Size	0
+DEBUG - 29421	0	Object Type	136.0
+DEBUG - 29422	2	Handle	Handle(0,7,60825009036724041)
+DEBUG - Reading CRC from 29419 for 2 bytes = 15632
+DEBUG - CRCB reading at 29419
+DEBUG - 29421	0	CRC	354
+DEBUG - CRC Mismatch 15632 354
+
+
+DEBUG - 29420	0	Object Size	25235
+DEBUG - 29422	0	Object Type	55303.0
+DEBUG - 29424	2	Handle	Handle(1,8,432653458773378808)
+DEBUG - 29421	0	Object Size	354
+DEBUG - 29423	0	Object Type	256.0
+DEBUG - 29423	2	Handle	Handle(13,8,1731072309483603974)
+DEBUG - 29422	0	Object Size	0
+DEBUG - 29424	0	Object Type	1560.0
+DEBUG - 29426	2	Handle	Handle(0,1,24)
+DEBUG - Reading CRC from 29422 for 2 bytes = 5840
+DEBUG - CRCB reading at 29422
+DEBUG - 29424	0	CRC	262
+DEBUG - CRC Mismatch 5840 262
+
+
+DEBUG - 29423	0	Object Size	1782
+DEBUG - 29425	0	Object Type	262.0
+DEBUG - 29427	2	Handle	Handle(1,8,524959657591310189)
+DEBUG - 29424	0	Object Size	262
+DEBUG - 29426	0	Object Type	0.0
+DEBUG - 29426	2	Handle	Handle(0,1,24)
+DEBUG - 29425	0	Object Size	0
+DEBUG - 29427	0	Object Type	24.0
+DEBUG - 29428	2	Handle	Handle(0,7,20556499325814637)
+DEBUG - Reading CRC from 29425 for 2 bytes = 61521
+DEBUG - CRCB reading at 29425
+DEBUG - 29427	0	CRC	326
+DEBUG - CRC Mismatch 61521 326
+
+
+DEBUG - 29426	0	Object Size	18048
+DEBUG - 29428	0	Object Type	18695.0
+DEBUG - 29430	2	Handle	Handle(0,8,502190972764161689)
+DEBUG - 29427	0	Object Size	326
+DEBUG - 29429	0	Object Type	256.0
+DEBUG - 29429	2	Handle	Handle(4,9,148076143562440574617)
+DEBUG - 29428	0	Object Size	0
+DEBUG - 29430	0	Object Type	8.0
+DEBUG - 29431	2	Handle	Handle(0,6,272833627096070)
+DEBUG - Reading CRC from 29428 for 2 bytes = 3536
+DEBUG - CRCB reading at 29428
+DEBUG - 29430	0	CRC	322
+DEBUG - CRC Mismatch 3536 322
+
+
+DEBUG - 29429	0	Object Size	17106
+DEBUG - 29431	0	Object Type	63494.0
+DEBUG - 29433	2	Handle	Handle(2,4,124584966)
+DEBUG - 29430	0	Object Size	322
+DEBUG - 29432	0	Object Type	0.0
+DEBUG - 29432	2	Handle	Handle(15,8,2596163574260371463)
+DEBUG - 29431	0	Object Size	0
+DEBUG - 29433	0	Object Type	1828.0
+DEBUG - 29435	2	Handle	Handle(6,13,318954601458063450350517928124)
+DEBUG - Reading CRC from 29431 for 2 bytes = 8400
+DEBUG - CRCB reading at 29431
+DEBUG - 29433	0	CRC	265
+DEBUG - CRC Mismatch 8400 265
+
+
+DEBUG - 29432	0	Object Size	2494
+DEBUG - 29434	0	Object Type	27911.0
+DEBUG - 29436	2	Handle	Handle(0,4,110694407)
+DEBUG - 29433	0	Object Size	265
+DEBUG - 29435	0	Object Type	256.0
+DEBUG - 29435	2	Handle	Handle(6,13,318954601458063450350517928124)
+DEBUG - 29434	0	Object Size	0
+DEBUG - 29436	0	Object Type	4.0
+DEBUG - 29437	2	Handle	Handle(0,6,168294120228919)
+DEBUG - Reading CRC from 29434 for 2 bytes = 2832
+DEBUG - CRCB reading at 29434
+DEBUG - 29436	0	CRC	321
+DEBUG - CRC Mismatch 2832 321
+
+
+DEBUG - 29435	0	Object Size	16859
+DEBUG - 29437	0	Object Type	39174.0
+DEBUG - 29439	2	Handle	Handle(1,0,0)
+DEBUG - 29436	0	Object Size	321
+DEBUG - 29438	0	Object Type	0.0
+DEBUG - 29438	2	Handle	Handle(9,9,295670613247266653888)
+DEBUG - 29437	0	Object Size	0
+DEBUG - 29439	0	Object Type	16.0
+DEBUG - 29440	2	Handle	Handle(0,7,18304909648332480)
+DEBUG - Reading CRC from 29437 for 2 bytes = 10960
+DEBUG - CRCB reading at 29437
+DEBUG - 29439	0	CRC	324
+DEBUG - CRC Mismatch 10960 324
+
+
+DEBUG - 29438	0	Object Size	17574
+DEBUG - 29440	0	Object Type	16647.0
+DEBUG - 29442	2	Handle	Handle(0,8,4027691441453826793)
+DEBUG - 29439	0	Object Size	324
+DEBUG - 29441	0	Object Type	256.0
+DEBUG - 29441	2	Handle	Handle(4,1,8)
+DEBUG - 29440	0	Object Size	0
+DEBUG - 29442	0	Object Type	8.0
+DEBUG - 29443	2	Handle	Handle(3,7,64523769367790313)
+DEBUG - Reading CRC from 29440 for 2 bytes = 52305
+DEBUG - CRCB reading at 29440
+DEBUG - 29442	0	CRC	3394
+DEBUG - CRC Mismatch 52305 3394
+
+
+DEBUG - 29441	0	Object Size	17104
+DEBUG - 29443	0	Object Type	58679.0
+DEBUG - 29445	2	Handle	Handle(3,12,2089914036113059557542115640)
+DEBUG - 29442	0	Object Size	3394
+DEBUG - 29444	0	Object Type	256.0
+DEBUG - 29444	2	Handle	Handle(14,5,257811332226)
+DEBUG - 29443	0	Object Size	0
+DEBUG - 29445	0	Object Type	60.0
+DEBUG - 29446	2	Handle	Handle(0,6,211915882741767)
+DEBUG - Reading CRC from 29443 for 2 bytes = 4757
+DEBUG - CRCB reading at 29443
+DEBUG - 29445	0	CRC	335
+DEBUG - CRC Mismatch 4757 335
+
+
+DEBUG - 29444	0	Object Size	20473
+DEBUG - 29446	0	Object Type	49158.0
+DEBUG - 29448	2	Handle	Handle(11,12,40515637832429700066704775204)
+DEBUG - 29445	0	Object Size	335
+DEBUG - 29447	0	Object Type	0.0
+DEBUG - 29447	2	Handle	Handle(12,0,0)
+DEBUG - 29446	0	Object Size	0
+DEBUG - 29448	0	Object Type	33468.0
+DEBUG - 29450	2	Handle	Handle(14,9,3542342518095838971480)
+DEBUG - Reading CRC from 29446 for 2 bytes = 58449
+DEBUG - CRCB reading at 29446
+DEBUG - 29448	0	CRC	8239
+DEBUG - CRC Mismatch 58449 8239
+
+
+DEBUG - 29447	0	Object Size	12208
+DEBUG - 29449	0	Object Type	59778.0
+DEBUG - 29451	2	Handle	Handle(12,0,0)
+DEBUG - 29448	0	Object Size	8239
+DEBUG - 29450	0	Object Type	0.0
+DEBUG - 29450	2	Handle	Handle(14,9,3542342518095838971480)
+DEBUG - 29449	0	Object Size	0
+DEBUG - 29451	0	Object Type	192.0
+DEBUG - 29452	2	Handle	Handle(0,7,63252785339565656)
+DEBUG - Reading CRC from 29449 for 2 bytes = 46025
+DEBUG - CRCB reading at 29449
+DEBUG - 29451	0	CRC	368
+DEBUG - CRC Mismatch 46025 368
+
+
+DEBUG - 29450	0	Object Size	28858
+DEBUG - 29452	0	Object Type	57351.0
+DEBUG - 29454	2	Handle	Handle(11,8,1349171163273888888)
+DEBUG - 29451	0	Object Size	368
+DEBUG - 29453	0	Object Type	256.0
+DEBUG - 29453	2	Handle	Handle(14,0,0)
+DEBUG - 29452	0	Object Size	0
+DEBUG - 29454	0	Object Type	4792.0
+DEBUG - 29456	2	Handle	Handle(11,9,1033474823091525027846)
+DEBUG - Reading CRC from 29452 for 2 bytes = 53841
+DEBUG - CRCB reading at 29452
+DEBUG - 29454	0	CRC	1070
+DEBUG - CRC Mismatch 53841 1070
+
+
+DEBUG - 29453	0	Object Size	12024
+DEBUG - 29455	0	Object Type	47378.0
+DEBUG - 29457	2	Handle	Handle(3,8,457154963790137350)
+DEBUG - 29454	0	Object Size	1070
+DEBUG - 29456	0	Object Type	0.0
+DEBUG - 29456	2	Handle	Handle(11,9,1033474823091525027846)
+DEBUG - 29455	0	Object Size	0
+DEBUG - 29457	0	Object Type	56.0
+DEBUG - 29458	2	Handle	Handle(0,6,96911717041288)
+DEBUG - Reading CRC from 29455 for 2 bytes = 48338
+DEBUG - CRCB reading at 29455
+DEBUG - 29457	0	CRC	334
+DEBUG - CRC Mismatch 48338 334
+
+
+DEBUG - 29456	0	Object Size	20142
+DEBUG - 29458	0	Object Type	22534.0
+DEBUG - 29460	2	Handle	Handle(2,4,74974344)
+DEBUG - 29457	0	Object Size	334
+DEBUG - 29459	0	Object Type	0.0
+DEBUG - 29459	2	Handle	Handle(5,8,2595331246129591732)
+DEBUG - 29458	0	Object Size	0
+DEBUG - 29460	0	Object Type	1060.0
+DEBUG - 29462	2	Handle	Handle(7,8,326518350463580344)
+DEBUG - Reading CRC from 29458 for 2 bytes = 16080
+DEBUG - CRCB reading at 29458
+DEBUG - 29460	0	CRC	265
+DEBUG - CRC Mismatch 16080 265
+
+
+DEBUG - 29459	0	Object Size	2454
+DEBUG - 29461	0	Object Type	30724.0
+DEBUG - 29463	2	Handle	Handle(0,4,2282141108)
+DEBUG - 29460	0	Object Size	265
+DEBUG - 29462	0	Object Type	1144.0
+DEBUG - 29464	2	Handle	Handle(8,8,483490478121554724)
+DEBUG - 29461	0	Object Size	7681
+DEBUG - 29463	0	Object Type	34820.0
+DEBUG - 29465	2	Handle	Handle(0,6,199784819898387)
+DEBUG - 29462	0	Object Size	286
+DEBUG - 29464	0	Object Type	1672.0
+DEBUG - 29466	2	Handle	Handle(11,5,773215270931)
+DEBUG - 29463	0	Object Size	8705
+DEBUG - 29465	0	Object Type	46342.0
+DEBUG - 29467	2	Handle	Handle(11,4,121157651)
+DEBUG - 29464	0	Object Size	290
+DEBUG - 29466	0	Object Type	0.0
+DEBUG - 29466	2	Handle	Handle(11,5,773215270931)
+DEBUG - 29465	0	Object Size	0
+DEBUG - 29467	0	Object Type	180.0
+DEBUG - 29468	2	Handle	Handle(0,7,15964991044191856)
+DEBUG - Reading CRC from 29465 for 2 bytes = 60817
+DEBUG - CRCB reading at 29465
+DEBUG - 29467	0	CRC	365
+DEBUG - CRC Mismatch 60817 365
+
+
+DEBUG - 29466	0	Object Size	28077
+DEBUG - 29468	0	Object Type	14343.0
+DEBUG - 29470	2	Handle	Handle(11,8,1379236209626457749)
+DEBUG - 29467	0	Object Size	365
+DEBUG - 29469	0	Object Type	256.0
+DEBUG - 29469	2	Handle	Handle(3,8,13263984944422593574)
+DEBUG - 29468	0	Object Size	0
+DEBUG - 29470	0	Object Type	5048.0
+DEBUG - 29472	2	Handle	Handle(2,4,134639652)
+DEBUG - Reading CRC from 29468 for 2 bytes = 50385
+DEBUG - CRCB reading at 29468
+DEBUG - 29470	0	CRC	1070
+DEBUG - CRC Mismatch 50385 1070
+
+
+DEBUG - 29469	0	Object Size	11982
+DEBUG - 29471	0	Object Type	9235.0
+DEBUG - 29473	2	Handle	Handle(0,8,463910509746586980)
+DEBUG - 29470	0	Object Size	1070
+DEBUG - 29472	0	Object Type	256.0
+DEBUG - 29472	2	Handle	Handle(2,4,134639652)
+DEBUG - 29471	0	Object Size	0
+DEBUG - 29473	0	Object Type	1544.0
+DEBUG - 29475	2	Handle	Handle(7,0,0)
+DEBUG - Reading CRC from 29471 for 2 bytes = 22163
+DEBUG - CRCB reading at 29471
+DEBUG - 29473	0	CRC	258
+DEBUG - CRC Mismatch 22163 258
+
+
+DEBUG - 29472	0	Object Size	713
+DEBUG - 29474	0	Object Type	28678.0
+DEBUG - 29476	2	Handle	Handle(2,4,647300101)
+DEBUG - 29473	0	Object Size	258
+DEBUG - 29475	0	Object Type	0.0
+DEBUG - 29475	2	Handle	Handle(7,0,0)
+DEBUG - 29474	0	Object Size	0
+DEBUG - 29476	0	Object Type	9764.0
+DEBUG - 29478	2	Handle	Handle(9,5,17270324901)
+DEBUG - Reading CRC from 29474 for 2 bytes = 14672
+DEBUG - CRCB reading at 29474
+DEBUG - 29476	0	CRC	2313
+DEBUG - CRC Mismatch 14672 2313
+
+
+DEBUG - 29475	0	Object Size	2460
+DEBUG - 29477	0	Object Type	38182.0
+DEBUG - 29479	2	Handle	Handle(0,4,90455717)
+DEBUG - 29476	0	Object Size	2313
+DEBUG - 29478	0	Object Type	0.0
+DEBUG - 29478	2	Handle	Handle(9,5,17270324901)
+DEBUG - 29477	0	Object Size	0
+DEBUG - 29479	0	Object Type	4.0
+DEBUG - 29480	2	Handle	Handle(0,5,430547758102)
+DEBUG - Reading CRC from 29477 for 2 bytes = 60311
+DEBUG - CRCB reading at 29477
+DEBUG - 29479	0	CRC	321
+DEBUG - CRC Mismatch 60311 321
+
+
+DEBUG - 29478	0	Object Size	16805
+DEBUG - 29480	0	Object Type	25605.0
+DEBUG - 29482	2	Handle	Handle(3,14,3355161151599236682705599217532934)
+DEBUG - 29479	0	Object Size	321
+DEBUG - 29481	0	Object Type	100.0
+DEBUG - 29482	2	Handle	Handle(3,14,3355161151599236682705599217532934)
+DEBUG - 29480	0	Object Size	22785
+DEBUG - 29482	0	Object Type	42302.0
+DEBUG - 29484	2	Handle	Handle(6,12,6925445170514294200008704006)
+DEBUG - 29481	0	Object Size	3929
+DEBUG - 29483	0	Object Type	0.0
+DEBUG - 29483	2	Handle	Handle(10,5,464231897102)
+DEBUG - 29482	0	Object Size	0
+DEBUG - 29484	0	Object Type	108.0
+DEBUG - 29485	2	Handle	Handle(1,6,106206202367232)
+DEBUG - Reading CRC from 29482 for 2 bytes = 20116
+DEBUG - CRCB reading at 29482
+DEBUG - 29484	0	CRC	1371
+DEBUG - CRC Mismatch 20116 1371
+
+
+DEBUG - 29483	0	Object Size	23465
+DEBUG - 29485	0	Object Type	24598.0
+DEBUG - 29487	2	Handle	Handle(9,8,1078344930082887680)
+DEBUG - 29484	0	Object Size	1371
+DEBUG - 29486	0	Object Type	0.0
+DEBUG - 29486	2	Handle	Handle(6,0,0)
+DEBUG - 29485	0	Object Size	0
+DEBUG - 29487	0	Object Type	3736.0
+DEBUG - 29489	2	Handle	Handle(15,7,3659341917323270)
+DEBUG - Reading CRC from 29485 for 2 bytes = 14931
+DEBUG - CRCB reading at 29485
+DEBUG - 29487	0	CRC	806
+DEBUG - CRC Mismatch 14931 806
+
+
+DEBUG - 29486	0	Object Size	9880
+DEBUG - 29488	0	Object Type	63246.0
+DEBUG - 29490	2	Handle	Handle(0,13,12049476981379913515744424967)
+DEBUG - 29487	0	Object Size	806
+DEBUG - 29489	0	Object Type	0.0
+DEBUG - 29489	2	Handle	Handle(15,7,3659341917323270)
+DEBUG - 29488	0	Object Size	0
+DEBUG - 29490	0	Object Type	256.0
+DEBUG - 29490	2	Handle	Handle(0,13,12049476981379913515744424967)
+DEBUG - Reading CRC from 29488 for 2 bytes = 16785
+DEBUG - CRCB reading at 29488
+DEBUG - 29490	0	CRC	16579
+DEBUG - CRC Mismatch 16785 16579
+
+
+DEBUG - 29489	0	Object Size	0
+DEBUG - 29491	0	Object Type	0.0
+DEBUG - 29492	2	Handle	Handle(2,6,262886358694960)
+DEBUG - Reading CRC from 29489 for 2 bytes = 49504
+DEBUG - CRCB reading at 29489
+DEBUG - 29491	0	CRC	2368
+DEBUG - CRC Mismatch 49504 2368
+
+
+DEBUG - 29490	0	Object Size	16579
+DEBUG - 29492	0	Object Type	61222.0
+DEBUG - 29494	2	Handle	Handle(1,8,1895764296729844)
+DEBUG - 29491	0	Object Size	2368
+DEBUG - 29493	0	Object Type	0.0
+DEBUG - 29493	2	Handle	Handle(14,15,124615658215047134010730603864113484)
+DEBUG - 29492	0	Object Size	0
+DEBUG - 29494	0	Object Type	256.0
+DEBUG - 29494	2	Handle	Handle(1,8,1895764296729844)
+DEBUG - Reading CRC from 29492 for 2 bytes = 58135
+DEBUG - CRCB reading at 29492
+DEBUG - 29494	0	CRC	198
+DEBUG - CRC Mismatch 58135 198
+
+
+DEBUG - 29493	0	Object Size	0
+DEBUG - 29495	0	Object Type	1536.0
+DEBUG - 29497	2	Handle	Handle(11,12,14861910765337653872714402820)
+DEBUG - Reading CRC from 29493 for 2 bytes = 25251
+DEBUG - CRCB reading at 29493
+DEBUG - 29495	0	CRC	256
+DEBUG - CRC Mismatch 25251 256
+
+
+DEBUG - 29494	0	Object Size	198
+DEBUG - 29496	0	Object Type	48134.0
+DEBUG - 29498	2	Handle	Handle(3,0,0)
+DEBUG - 29495	0	Object Size	256
+DEBUG - 29497	0	Object Type	0.0
+DEBUG - 29497	2	Handle	Handle(11,12,14861910765337653872714402820)
+DEBUG - 29496	0	Object Size	0
+DEBUG - 29498	0	Object Type	1328.0
+DEBUG - 29500	2	Handle	Handle(7,12,1532953378656320882922227609)
+DEBUG - Reading CRC from 29496 for 2 bytes = 11280
+DEBUG - CRCB reading at 29496
+DEBUG - 29498	0	CRC	268
+DEBUG - CRC Mismatch 11280 268
+
+
+DEBUG - 29497	0	Object Size	3247
+DEBUG - 29499	0	Object Type	31749.0
+DEBUG - 29501	2	Handle	Handle(0,4,4094132524)
+DEBUG - 29498	0	Object Size	268
+DEBUG - 29500	0	Object Type	124.0
+DEBUG - 29501	2	Handle	Handle(0,4,4094132524)
+DEBUG - 29499	0	Object Size	24321
+DEBUG - 29501	0	Object Type	62468.0
+DEBUG - 29503	2	Handle	Handle(0,7,36358941513090184)
+DEBUG - 29500	0	Object Size	351
+DEBUG - 29502	0	Object Type	2036.0
+DEBUG - 29504	2	Handle	Handle(8,1,44)
+DEBUG - 29501	0	Object Size	15617
+DEBUG - 29503	0	Object Type	33031.0
+DEBUG - 29505	2	Handle	Handle(2,12,20969177324657389535597429896)
+DEBUG - 29502	0	Object Size	317
+DEBUG - 29504	0	Object Type	256.0
+DEBUG - 29504	2	Handle	Handle(8,1,44)
+DEBUG - 29503	0	Object Size	0
+DEBUG - 29505	0	Object Type	44.0
+DEBUG - 29506	2	Handle	Handle(4,3,12667908)
+DEBUG - Reading CRC from 29503 for 2 bytes = 55377
+DEBUG - CRCB reading at 29503
+DEBUG - 29505	0	CRC	4171
+DEBUG - CRC Mismatch 55377 4171
+
+
+DEBUG - 29504	0	Object Size	19424
+DEBUG - 29506	0	Object Type	49475.0
+DEBUG - 29508	2	Handle	Handle(4,12,1402389842641835587514174468)
+DEBUG - 29505	0	Object Size	4171
+DEBUG - 29507	0	Object Type	256.0
+DEBUG - 29507	2	Handle	Handle(12,1,76)
+DEBUG - 29506	0	Object Size	0
+DEBUG - 29508	0	Object Type	76.0
+DEBUG - 29509	2	Handle	Handle(0,4,2282199476)
+DEBUG - Reading CRC from 29506 for 2 bytes = 17500
+DEBUG - CRCB reading at 29506
+DEBUG - 29508	0	CRC	339
+DEBUG - CRC Mismatch 17500 339
+
+
+DEBUG - 29507	0	Object Size	21488
+DEBUG - 29509	0	Object Type	34820.0
+DEBUG - 29511	2	Handle	Handle(0,7,43263602991597572)
+DEBUG - 29508	0	Object Size	339
+DEBUG - 29510	0	Object Type	1928.0
+DEBUG - 29512	2	Handle	Handle(9,9,3320740449222942000268)
+DEBUG - 29509	0	Object Size	8705
+DEBUG - 29511	0	Object Type	39175.0
+DEBUG - 29513	2	Handle	Handle(11,4,76022920)
+DEBUG - 29510	0	Object Size	290
+DEBUG - 29512	0	Object Type	256.0
+DEBUG - 29512	2	Handle	Handle(9,9,3320740449222942000268)
+DEBUG - 29511	0	Object Size	0
+DEBUG - 29513	0	Object Type	180.0
+DEBUG - 29514	2	Handle	Handle(0,4,2281998340)
+DEBUG - Reading CRC from 29511 for 2 bytes = 56017
+DEBUG - CRCB reading at 29511
+DEBUG - 29513	0	CRC	365
+DEBUG - CRC Mismatch 56017 365
+
+
+DEBUG - 29512	0	Object Size	28134
+DEBUG - 29514	0	Object Type	34820.0
+DEBUG - 29516	2	Handle	Handle(0,4,2281999364)
+DEBUG - 29513	0	Object Size	365
+DEBUG - 29515	0	Object Type	1160.0
+DEBUG - 29517	2	Handle	Handle(8,8,327641872309421196)
+DEBUG - 29514	0	Object Size	8705
+DEBUG - 29516	0	Object Type	34820.0
+DEBUG - 29518	2	Handle	Handle(0,4,2349108228)
+DEBUG - 29515	0	Object Size	290
+DEBUG - 29517	0	Object Type	1160.0
+DEBUG - 29519	2	Handle	Handle(8,12,1407211126369172029585491088)
+DEBUG - 29516	0	Object Size	8705
+DEBUG - 29518	0	Object Type	35844.0
+DEBUG - 29520	2	Handle	Handle(0,4,2349108228)
+DEBUG - 29517	0	Object Size	290
+DEBUG - 29519	0	Object Type	1164.0
+DEBUG - 29521	2	Handle	Handle(8,12,1407211126369172029585753224)
+DEBUG - 29518	0	Object Size	8961
+DEBUG - 29520	0	Object Type	35844.0
+DEBUG - 29522	2	Handle	Handle(0,4,2349108228)
+DEBUG - 29519	0	Object Size	291
+DEBUG - 29521	0	Object Type	1164.0
+DEBUG - 29523	2	Handle	Handle(8,12,1407211126369172046765098120)
+DEBUG - 29520	0	Object Size	8961
+DEBUG - 29522	0	Object Type	35844.0
+DEBUG - 29524	2	Handle	Handle(0,4,2349108228)
+DEBUG - 29521	0	Object Size	291
+DEBUG - 29523	0	Object Type	1164.0
+DEBUG - 29525	2	Handle	Handle(8,12,1407211126370297912312202376)
+DEBUG - 29522	0	Object Size	8961
+DEBUG - 29524	0	Object Type	35844.0
+DEBUG - 29526	2	Handle	Handle(0,4,2349108228)
+DEBUG - 29523	0	Object Size	291
+DEBUG - 29525	0	Object Type	1164.0
+DEBUG - 29527	2	Handle	Handle(8,12,1407211200155022407336723596)
+DEBUG - 29524	0	Object Size	8961
+DEBUG - 29526	0	Object Type	35844.0
+DEBUG - 29528	2	Handle	Handle(0,4,2349109252)
+DEBUG - 29525	0	Object Size	291
+DEBUG - 29527	0	Object Type	1164.0
+DEBUG - 29529	2	Handle	Handle(8,12,1412046755859528334359397520)
+DEBUG - 29526	0	Object Size	8961
+DEBUG - 29528	0	Object Type	35844.0
+DEBUG - 29530	2	Handle	Handle(0,4,2416216068)
+DEBUG - 29527	0	Object Size	291
+DEBUG - 29529	0	Object Type	1164.0
+DEBUG - 29531	2	Handle	Handle(9,0,0)
+DEBUG - 29528	0	Object Size	8961
+DEBUG - 29530	0	Object Type	36868.0
+DEBUG - 29532	2	Handle	Handle(0,4,2281998340)
+DEBUG - 29529	0	Object Size	291
+DEBUG - 29531	0	Object Type	1168.0
+DEBUG - 29533	2	Handle	Handle(8,8,326515955222709392)
+DEBUG - 29530	0	Object Size	9217
+DEBUG - 29532	0	Object Type	34820.0
+DEBUG - 29534	2	Handle	Handle(0,4,2281998340)
+DEBUG - 29531	0	Object Size	292
+DEBUG - 29533	0	Object Type	1160.0
+DEBUG - 29535	2	Handle	Handle(8,8,326515972402840788)
+DEBUG - 29532	0	Object Size	8705
+DEBUG - 29534	0	Object Type	34820.0
+DEBUG - 29536	2	Handle	Handle(0,4,2281999364)
+DEBUG - 29533	0	Object Size	290
+DEBUG - 29535	0	Object Type	1160.0
+DEBUG - 29537	2	Handle	Handle(8,8,327641889494009040)
+DEBUG - 29534	0	Object Size	8705
+DEBUG - 29536	0	Object Type	34820.0
+DEBUG - 29538	2	Handle	Handle(0,4,2349109252)
+DEBUG - 29535	0	Object Size	290
+DEBUG - 29537	0	Object Type	1160.0
+DEBUG - 29539	2	Handle	Handle(8,12,1412048157832344443850589392)
+DEBUG - 29536	0	Object Size	8705
+DEBUG - 29538	0	Object Type	35844.0
+DEBUG - 29540	2	Handle	Handle(0,4,2416235524)
+DEBUG - 29537	0	Object Size	290
+DEBUG - 29539	0	Object Type	1164.0
+DEBUG - 29541	2	Handle	Handle(9,0,0)
+DEBUG - 29538	0	Object Size	8961
+DEBUG - 29540	0	Object Type	36868.0
+DEBUG - 29542	2	Handle	Handle(0,4,3557085188)
+DEBUG - 29539	0	Object Size	291
+DEBUG - 29541	0	Object Type	1168.0
+DEBUG - 29543	2	Handle	Handle(13,4,80741584)
+DEBUG - 29540	0	Object Size	9217
+DEBUG - 29542	0	Object Type	54276.0
+DEBUG - 29544	2	Handle	Handle(0,4,3489976324)
+DEBUG - 29541	0	Object Size	292
+DEBUG - 29543	0	Object Type	1236.0
+DEBUG - 29545	2	Handle	Handle(13,0,0)
+DEBUG - 29542	0	Object Size	13569
+DEBUG - 29544	0	Object Type	53252.0
+DEBUG - 29546	2	Handle	Handle(0,4,3489976324)
+DEBUG - 29543	0	Object Size	309
+DEBUG - 29545	0	Object Type	1232.0
+DEBUG - 29547	2	Handle	Handle(13,0,0)
+DEBUG - 29544	0	Object Size	13313
+DEBUG - 29546	0	Object Type	53252.0
+DEBUG - 29548	2	Handle	Handle(0,4,3489976324)
+DEBUG - 29545	0	Object Size	308
+DEBUG - 29547	0	Object Type	1232.0
+DEBUG - 29549	2	Handle	Handle(13,0,0)
+DEBUG - 29546	0	Object Size	13313
+DEBUG - 29548	0	Object Type	53252.0
+DEBUG - 29550	2	Handle	Handle(0,4,3489975300)
+DEBUG - 29547	0	Object Size	308
+DEBUG - 29549	0	Object Type	1232.0
+DEBUG - 29551	2	Handle	Handle(13,0,0)
+DEBUG - 29548	0	Object Size	13313
+DEBUG - 29550	0	Object Type	53252.0
+DEBUG - 29552	2	Handle	Handle(0,4,3422867460)
+DEBUG - 29549	0	Object Size	308
+DEBUG - 29551	0	Object Type	1232.0
+DEBUG - 29553	2	Handle	Handle(12,12,1489419262712602204268397732)
+DEBUG - 29550	0	Object Size	13313
+DEBUG - 29552	0	Object Type	52228.0
+DEBUG - 29554	2	Handle	Handle(0,4,3489975300)
+DEBUG - 29551	0	Object Size	308
+DEBUG - 29553	0	Object Type	1228.0
+DEBUG - 29555	2	Handle	Handle(13,0,0)
+DEBUG - 29552	0	Object Size	13057
+DEBUG - 29554	0	Object Type	53252.0
+DEBUG - 29556	2	Handle	Handle(0,4,3422866436)
+DEBUG - 29553	0	Object Size	307
+DEBUG - 29555	0	Object Type	1232.0
+DEBUG - 29557	2	Handle	Handle(12,12,1484583559434143515771405508)
+DEBUG - 29554	0	Object Size	13313
+DEBUG - 29556	0	Object Type	52228.0
+DEBUG - 29558	2	Handle	Handle(0,4,3422866436)
+DEBUG - 29555	0	Object Size	308
+DEBUG - 29557	0	Object Type	1228.0
+DEBUG - 29559	2	Handle	Handle(12,12,1484583559422884722860360900)
+DEBUG - 29556	0	Object Size	13057
+DEBUG - 29558	0	Object Type	52228.0
+DEBUG - 29560	2	Handle	Handle(0,4,3422866436)
+DEBUG - 29557	0	Object Size	307
+DEBUG - 29559	0	Object Type	1228.0
+DEBUG - 29561	2	Handle	Handle(12,12,1484582821566632504640934493)
+DEBUG - 29558	0	Object Size	13057
+DEBUG - 29560	0	Object Type	52228.0
+DEBUG - 29562	2	Handle	Handle(0,4,3422856196)
+DEBUG - 29559	0	Object Size	307
+DEBUG - 29561	0	Object Type	1228.0
+DEBUG - 29563	2	Handle	Handle(12,12,1436226674221259276311936014)
+DEBUG - 29560	0	Object Size	13057
+DEBUG - 29562	0	Object Type	52228.0
+DEBUG - 29564	2	Handle	Handle(0,4,2751779844)
+DEBUG - 29561	0	Object Size	307
+DEBUG - 29563	0	Object Type	1228.0
+DEBUG - 29565	2	Handle	Handle(10,4,81003716)
+DEBUG - 29562	0	Object Size	13057
+DEBUG - 29564	0	Object Type	41988.0
+DEBUG - 29566	2	Handle	Handle(0,4,3557082116)
+DEBUG - 29563	0	Object Size	307
+DEBUG - 29565	0	Object Type	1188.0
+DEBUG - 29567	2	Handle	Handle(13,4,79955140)
+DEBUG - 29564	0	Object Size	10497
+DEBUG - 29566	0	Object Type	54276.0
+DEBUG - 29568	2	Handle	Handle(0,4,3288646674)
+DEBUG - 29565	0	Object Size	297
+DEBUG - 29567	0	Object Type	1236.0
+DEBUG - 29569	2	Handle	Handle(12,4,79958621)
+DEBUG - 29566	0	Object Size	13569
+DEBUG - 29568	0	Object Type	50180.0
+DEBUG - 29570	2	Handle	Handle(0,4,3289537852)
+DEBUG - 29567	0	Object Size	309
+DEBUG - 29569	0	Object Type	1220.0
+DEBUG - 29571	2	Handle	Handle(12,4,308100110)
+DEBUG - 29568	0	Object Size	12545
+DEBUG - 29570	0	Object Type	50180.0
+DEBUG - 29572	2	Handle	Handle(1,2,23868)
+DEBUG - 29569	0	Object Size	305
+DEBUG - 29571	0	Object Type	4804.0
+DEBUG - 29573	2	Handle	Handle(5,13,4758074600361899726233461852104)
+DEBUG - 29570	0	Object Size	12545
+DEBUG - 29572	0	Object Type	23826.0
+DEBUG - 29574	2	Handle	Handle(3,12,4384849506039470620824831944)
+DEBUG - 29571	0	Object Size	1073
+DEBUG - 29573	0	Object Type	0.0
+DEBUG - 29573	2	Handle	Handle(5,13,4758074600361899726233461852104)
+DEBUG - 29572	0	Object Size	0
+DEBUG - 29574	0	Object Type	60.0
+DEBUG - 29575	2	Handle	Handle(0,14,873411270829916331805355081729996)
+DEBUG - Reading CRC from 29572 for 2 bytes = 44562
+DEBUG - CRCB reading at 29572
+DEBUG - 29574	0	CRC	847
+DEBUG - CRC Mismatch 44562 847
+
+
+DEBUG - 29573	0	Object Size	20375
+DEBUG - 29575	0	Object Type	11022.0
+DEBUG - 29577	2	Handle	Handle(1,0,0)
+DEBUG - 29574	0	Object Size	847
+DEBUG - 29576	0	Object Type	0.0
+DEBUG - 29576	2	Handle	Handle(2,11,19342924085914666376087592)
+DEBUG - 29575	0	Object Size	0
+DEBUG - 29577	0	Object Type	256.0
+DEBUG - 29577	2	Handle	Handle(1,0,0)
+DEBUG - Reading CRC from 29575 for 2 bytes = 38864
+DEBUG - CRCB reading at 29575
+DEBUG - 29577	0	CRC	196
+DEBUG - CRC Mismatch 38864 196
+
+
+DEBUG - 29576	0	Object Size	0
+DEBUG - 29578	0	Object Type	1536.0
+DEBUG - 29580	2	Handle	Handle(0,4,201808284)
+DEBUG - Reading CRC from 29576 for 2 bytes = 13111
+DEBUG - CRCB reading at 29576
+DEBUG - 29578	0	CRC	256
+DEBUG - CRC Mismatch 13111 256
+
+
+DEBUG - 29577	0	Object Size	196
+DEBUG - 29579	0	Object Type	1030.0
+DEBUG - 29581	2	Handle	Handle(0,12,2274726299416440038658346020)
+DEBUG - 29578	0	Object Size	256
+DEBUG - 29580	0	Object Type	0.0
+DEBUG - 29580	2	Handle	Handle(0,4,201808284)
+DEBUG - 29579	0	Object Size	0
+DEBUG - 29581	0	Object Type	1804.0
+DEBUG - 29583	2	Handle	Handle(5,9,2878252817666254046988)
+DEBUG - Reading CRC from 29579 for 2 bytes = 12432
+DEBUG - CRCB reading at 29579
+DEBUG - 29581	0	CRC	259
+DEBUG - CRC Mismatch 12432 259
+
+
+DEBUG - 29580	0	Object Size	897
+DEBUG - 29582	0	Object Type	22791.0
+DEBUG - 29584	2	Handle	Handle(9,12,2408369271175510048855455748)
+DEBUG - 29581	0	Object Size	259
+DEBUG - 29583	0	Object Type	256.0
+DEBUG - 29583	2	Handle	Handle(5,9,2878252817666254046988)
+DEBUG - 29582	0	Object Size	0
+DEBUG - 29584	0	Object Type	156.0
+DEBUG - 29585	2	Handle	Handle(0,7,56339009298499340)
+DEBUG - Reading CRC from 29582 for 2 bytes = 52945
+DEBUG - CRCB reading at 29582
+DEBUG - 29584	0	CRC	359
+DEBUG - CRC Mismatch 52945 359
+
+
+DEBUG - 29583	0	Object Size	26582
+DEBUG - 29585	0	Object Type	51207.0
+DEBUG - 29587	2	Handle	Handle(2,8,561890054480594552)
+DEBUG - 29584	0	Object Size	359
+DEBUG - 29586	0	Object Type	256.0
+DEBUG - 29586	2	Handle	Handle(12,8,2884498644542432262)
+DEBUG - 29585	0	Object Size	0
+DEBUG - 29587	0	Object Type	1832.0
+DEBUG - 29589	2	Handle	Handle(12,12,18577620402964714610703468377)
+DEBUG - Reading CRC from 29585 for 2 bytes = 54737
+DEBUG - CRCB reading at 29585
+DEBUG - 29587	0	CRC	266
+DEBUG - CRC Mismatch 54737 266
+
+
+DEBUG - 29586	0	Object Size	2802
+DEBUG - 29588	0	Object Type	52231.0
+DEBUG - 29590	2	Handle	Handle(3,12,2181072303106684727450884392)
+DEBUG - 29587	0	Object Size	266
+DEBUG - 29589	0	Object Type	256.0
+DEBUG - 29589	2	Handle	Handle(12,12,18577620402964714610703468377)
+DEBUG - 29588	0	Object Size	0
+DEBUG - 29590	0	Object Type	1852.0
+DEBUG - 29592	2	Handle	Handle(0,12,11149280666825279467873109616)
+DEBUG - Reading CRC from 29588 for 2 bytes = 5392
+DEBUG - CRCB reading at 29588
+DEBUG - 29590	0	CRC	271
+DEBUG - CRC Mismatch 5392 271
+
+
+DEBUG - 29589	0	Object Size	4083
+DEBUG - 29591	0	Object Type	3079.0
+DEBUG - 29593	2	Handle	Handle(2,4,108528647)
+DEBUG - 29590	0	Object Size	271
+DEBUG - 29592	0	Object Type	256.0
+DEBUG - 29592	2	Handle	Handle(0,12,11149280666825279467873109616)
+DEBUG - 29591	0	Object Size	0
+DEBUG - 29593	0	Object Type	1572.0
+DEBUG - 29595	2	Handle	Handle(7,8,290473534614480902)
+DEBUG - Reading CRC from 29591 for 2 bytes = 272
+DEBUG - CRCB reading at 29591
+DEBUG - 29593	0	CRC	265
+DEBUG - CRC Mismatch 272 265
+
+
+DEBUG - 29592	0	Object Size	2499
+DEBUG - 29594	0	Object Type	30726.0
+DEBUG - 29596	2	Handle	Handle(0,4,133702663)
+DEBUG - 29593	0	Object Size	265
+DEBUG - 29595	0	Object Type	0.0
+DEBUG - 29595	2	Handle	Handle(7,8,290473534614480902)
+DEBUG - 29594	0	Object Size	0
+DEBUG - 29596	0	Object Type	1796.0
+DEBUG - 29598	2	Handle	Handle(15,8,2596141738643956743)
+DEBUG - Reading CRC from 29594 for 2 bytes = 63697
+DEBUG - CRCB reading at 29594
+DEBUG - 29596	0	CRC	257
+DEBUG - CRC Mismatch 63697 257
+
+
+DEBUG - 29595	0	Object Size	414
+DEBUG - 29597	0	Object Type	63495.0
+DEBUG - 29599	2	Handle	Handle(2,4,123283462)
+DEBUG - 29596	0	Object Size	257
+DEBUG - 29598	0	Object Type	256.0
+DEBUG - 29598	2	Handle	Handle(15,8,2596141738643956743)
+DEBUG - 29597	0	Object Size	0
+DEBUG - 29599	0	Object Type	1828.0
+DEBUG - 29601	2	Handle	Handle(5,9,738333673325724698420)
+DEBUG - Reading CRC from 29597 for 2 bytes = 53457
+DEBUG - CRCB reading at 29597
+DEBUG - 29599	0	CRC	265
+DEBUG - CRC Mismatch 53457 265
+
+
+DEBUG - 29598	0	Object Size	2558
+DEBUG - 29600	0	Object Type	22791.0
+DEBUG - 29602	2	Handle	Handle(2,8,463910377342633780)
+DEBUG - 29599	0	Object Size	265
+DEBUG - 29601	0	Object Type	256.0
+DEBUG - 29601	2	Handle	Handle(5,9,738333673325724698420)
+DEBUG - 29600	0	Object Size	0
+DEBUG - 29602	0	Object Type	40.0
+DEBUG - 29603	2	Handle	Handle(0,6,123300051230727)
+DEBUG - Reading CRC from 29600 for 2 bytes = 52945
+DEBUG - CRCB reading at 29600
+DEBUG - 29602	0	CRC	330
+DEBUG - CRC Mismatch 52945 330
+
+
+DEBUG - 29601	0	Object Size	19158
+DEBUG - 29603	0	Object Type	28678.0
+DEBUG - 29605	2	Handle	Handle(2,4,130097159)
+DEBUG - 29602	0	Object Size	330
+DEBUG - 29604	0	Object Type	0.0
+DEBUG - 29604	2	Handle	Handle(7,0,0)
+DEBUG - 29603	0	Object Size	0
+DEBUG - 29605	0	Object Type	1828.0
+DEBUG - 29607	2	Handle	Handle(12,1,32)
+DEBUG - Reading CRC from 29603 for 2 bytes = 14672
+DEBUG - CRCB reading at 29603
+DEBUG - 29605	0	CRC	265
+DEBUG - CRC Mismatch 14672 265
+
+
+DEBUG - 29604	0	Object Size	2460
+DEBUG - 29606	0	Object Type	49415.0
+DEBUG - 29608	2	Handle	Handle(2,0,0)
+DEBUG - 29605	0	Object Size	265
+DEBUG - 29607	0	Object Type	256.0
+DEBUG - 29607	2	Handle	Handle(12,1,32)
+DEBUG - 29606	0	Object Size	0
+DEBUG - 29608	0	Object Type	32.0
+DEBUG - 29609	2	Handle	Handle(0,7,14676312161781745)
+DEBUG - Reading CRC from 29606 for 2 bytes = 5200
+DEBUG - CRCB reading at 29606
+DEBUG - 29608	0	CRC	328
+DEBUG - CRC Mismatch 5200 328
+
+
+DEBUG - 29607	0	Object Size	18672
+DEBUG - 29609	0	Object Type	13319.0
+DEBUG - 29611	2	Handle	Handle(2,4,120914951)
+DEBUG - 29608	0	Object Size	328
+DEBUG - 29610	0	Object Type	256.0
+DEBUG - 29610	2	Handle	Handle(3,4,604452100)
+DEBUG - 29609	0	Object Size	0
+DEBUG - 29611	0	Object Type	1828.0
+DEBUG - 29613	2	Handle	Handle(3,5,17313110023)
+DEBUG - Reading CRC from 29609 for 2 bytes = 50577
+DEBUG - CRCB reading at 29609
+DEBUG - 29611	0	CRC	265
+DEBUG - CRC Mismatch 50577 265
+
+
+DEBUG - 29610	0	Object Size	2509
+DEBUG - 29612	0	Object Type	13575.0
+DEBUG - 29614	2	Handle	Handle(0,4,133240839)
+DEBUG - 29611	0	Object Size	265
+DEBUG - 29613	0	Object Type	256.0
+DEBUG - 29613	2	Handle	Handle(3,5,17313110023)
+DEBUG - 29612	0	Object Size	0
+DEBUG - 29614	0	Object Type	4.0
+DEBUG - 29615	2	Handle	Handle(0,7,67861890619410013)
+DEBUG - Reading CRC from 29612 for 2 bytes = 50577
+DEBUG - CRCB reading at 29612
+DEBUG - 29614	0	CRC	321
+DEBUG - CRC Mismatch 50577 321
+
+
+DEBUG - 29613	0	Object Size	16845
+DEBUG - 29615	0	Object Type	61703.0
+DEBUG - 29617	2	Handle	Handle(1,8,552860862057809596)
+DEBUG - 29614	0	Object Size	321
+DEBUG - 29616	0	Object Type	256.0
+DEBUG - 29616	2	Handle	Handle(15,1,24)
+DEBUG - 29615	0	Object Size	0
+DEBUG - 29617	0	Object Type	24.0
+DEBUG - 29618	2	Handle	Handle(0,7,48457703792314044)
+DEBUG - Reading CRC from 29615 for 2 bytes = 4432
+DEBUG - CRCB reading at 29615
+DEBUG - 29617	0	CRC	326
+DEBUG - CRC Mismatch 4432 326
+
+
+DEBUG - 29616	0	Object Size	18172
+DEBUG - 29618	0	Object Type	44039.0
+DEBUG - 29620	2	Handle	Handle(2,8,458571144499824448)
+DEBUG - 29617	0	Object Size	326
+DEBUG - 29619	0	Object Type	256.0
+DEBUG - 29619	2	Handle	Handle(10,12,12387093939996443515717682829)
+DEBUG - 29618	0	Object Size	0
+DEBUG - 29620	0	Object Type	1576.0
+DEBUG - 29622	2	Handle	Handle(5,13,3488123527769045817239252852740)
+DEBUG - Reading CRC from 29618 for 2 bytes = 7952
+DEBUG - CRCB reading at 29618
+DEBUG - 29620	0	CRC	266
+DEBUG - CRC Mismatch 7952 266
+
+
+DEBUG - 29619	0	Object Size	2795
+DEBUG - 29621	0	Object Type	23814.0
+DEBUG - 29623	2	Handle	Handle(2,12,2084377141414963123319037956)
+DEBUG - 29620	0	Object Size	266
+DEBUG - 29622	0	Object Type	0.0
+DEBUG - 29622	2	Handle	Handle(5,13,3488123527769045817239252852740)
+DEBUG - 29621	0	Object Size	0
+DEBUG - 29623	0	Object Type	44.0
+DEBUG - 29624	2	Handle	Handle(0,6,206880106349574)
+DEBUG - Reading CRC from 29621 for 2 bytes = 65041
+DEBUG - CRCB reading at 29621
+DEBUG - 29623	0	CRC	331
+DEBUG - CRC Mismatch 65041 331
+
+
+DEBUG - 29622	0	Object Size	19351
+DEBUG - 29624	0	Object Type	48134.0
+DEBUG - 29626	2	Handle	Handle(2,8,522421982969988448)
+DEBUG - 29623	0	Object Size	331
+DEBUG - 29625	0	Object Type	0.0
+DEBUG - 29625	2	Handle	Handle(11,12,12388165179305238566701154311)
+DEBUG - 29624	0	Object Size	0
+DEBUG - 29626	0	Object Type	1832.0
+DEBUG - 29628	2	Handle	Handle(4,0,0)
+DEBUG - Reading CRC from 29624 for 2 bytes = 11280
+DEBUG - CRCB reading at 29624
+DEBUG - 29626	0	CRC	266
+DEBUG - CRC Mismatch 11280 266
+
+
+DEBUG - 29625	0	Object Size	2735
+DEBUG - 29627	0	Object Type	16391.0
+DEBUG - 29629	2	Handle	Handle(0,4,109955077)
+DEBUG - 29626	0	Object Size	266
+DEBUG - 29628	0	Object Type	256.0
+DEBUG - 29628	2	Handle	Handle(4,0,0)
+DEBUG - 29627	0	Object Size	0
+DEBUG - 29629	0	Object Type	1540.0
+DEBUG - 29631	2	Handle	Handle(8,13,15847296007212411734516316506119)
+DEBUG - Reading CRC from 29627 for 2 bytes = 52305
+DEBUG - CRCB reading at 29627
+DEBUG - 29629	0	CRC	257
+DEBUG - CRC Mismatch 52305 257
+
+
+DEBUG - 29628	0	Object Size	464
+DEBUG - 29630	0	Object Type	36102.0
+DEBUG - 29632	2	Handle	Handle(12,8,387314790753697931)
+DEBUG - 29629	0	Object Size	257
+DEBUG - 29631	0	Object Type	0.0
+DEBUG - 29631	2	Handle	Handle(8,13,15847296007212411734516316506119)
+DEBUG - 29630	0	Object Size	0
+DEBUG - 29632	0	Object Type	200.0
+DEBUG - 29633	2	Handle	Handle(0,5,412396554017)
+DEBUG - Reading CRC from 29630 for 2 bytes = 10512
+DEBUG - CRCB reading at 29630
+DEBUG - 29632	0	CRC	370
+DEBUG - CRC Mismatch 10512 370
+
+
+DEBUG - 29631	0	Object Size	29347
+DEBUG - 29633	0	Object Type	24581.0
+DEBUG - 29635	2	Handle	Handle(0,4,3221692672)
+DEBUG - 29632	0	Object Size	370
+DEBUG - 29634	0	Object Type	96.0
+DEBUG - 29635	2	Handle	Handle(0,4,3221692672)
+DEBUG - 29633	0	Object Size	22529
+DEBUG - 29635	0	Object Type	49156.0
+DEBUG - 29637	2	Handle	Handle(0,7,9289274050480135)
+DEBUG - 29634	0	Object Size	344
+DEBUG - 29636	0	Object Type	1984.0
+DEBUG - 29638	2	Handle	Handle(2,1,0)
+DEBUG - 29635	0	Object Size	12289
+DEBUG - 29637	0	Object Type	8455.0
+DEBUG - 29639	2	Handle	Handle(0,0,0)
+DEBUG - 29636	0	Object Size	304
+DEBUG - 29638	0	Object Type	256.0
+DEBUG - 29638	2	Handle	Handle(2,1,0)
+DEBUG - 29637	0	Object Size	0
+DEBUG - 29639	0	Object Type	0.0
+DEBUG - 29640	2	Handle	Handle(8,11,203099685792562349054927438)
+DEBUG - Reading CRC from 29637 for 2 bytes = 50769
+DEBUG - CRCB reading at 29637
+DEBUG - 29639	0	CRC	8768
+DEBUG - CRC Mismatch 50769 8768
+
+
+DEBUG - 29638	0	Object Size	16584
+DEBUG - 29640	0	Object Type	43147.0
+DEBUG - 29642	2	Handle	Handle(0,0,0)
+DEBUG - 29639	0	Object Size	8768
+DEBUG - 29641	0	Object Type	256.0
+DEBUG - 29641	2	Handle	Handle(10,8,2259785532344120)
+DEBUG - 29640	0	Object Size	0
+DEBUG - 29642	0	Object Type	2048.0
+DEBUG - 29644	2	Handle	Handle(0,7,18948899762381390)
+DEBUG - Reading CRC from 29640 for 2 bytes = 61384
+DEBUG - CRCB reading at 29640
+DEBUG - 29642	0	CRC	512
+DEBUG - CRC Mismatch 61384 512
+
+
+DEBUG - 29641	0	Object Size	234
+DEBUG - 29643	0	Object Type	1800.0
+DEBUG - 29645	2	Handle	Handle(4,3,5368967)
+DEBUG - 29642	0	Object Size	512
+DEBUG - 29644	0	Object Type	17159.0
+DEBUG - 29646	2	Handle	Handle(5,1,236)
+DEBUG - 29643	0	Object Size	258
+DEBUG - 29645	0	Object Type	256.0
+DEBUG - 29645	2	Handle	Handle(4,3,5368967)
+DEBUG - 29644	0	Object Size	0
+DEBUG - 29646	0	Object Type	256.0
+DEBUG - 29646	2	Handle	Handle(5,1,236)
+DEBUG - 29645	0	Object Size	0
+DEBUG - 29647	0	Object Type	236.0
+DEBUG - 29648	2	Handle	Handle(8,7,15941056717474961)
